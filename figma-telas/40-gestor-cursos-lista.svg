@@ -1,0 +1,346 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1186" viewBox="0 0 1440 1186">
+  <title>40-gestor-cursos-lista</title>
+  <rect width="1440" height="1186" fill="#FFFFFF"/>
+  <rect x="268" y="0" width="1172" height="1024" fill="#F3F6FA"/>
+  <rect x="0" y="0" width="268" height="1024" fill="#0E2C4B"/>
+  <rect x="28" y="30" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(38,40) scale(0.92)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="46" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Escola do</text>
+  <text x="80" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Legislativo</text>
+  <text x="28" y="104" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#B8862B" font-weight="700" letter-spacing="1.4">ÁREA DO GESTOR</text>
+  <line x1="28" y1="118" x2="240" y2="118" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(34,150) scale(0.79)">
+  <path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Painel</text>
+  <rect x="14" y="188" width="240" height="44" rx="8" fill="#1E4D75"/>
+  <rect x="14" y="197" width="3.5" height="26" rx="2" fill="#B8862B"/>
+  <g transform="translate(34,200) scale(0.79)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Cursos</text>
+  <g transform="translate(34,250) scale(0.79)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Turmas</text>
+  <g transform="translate(34,300) scale(0.79)">
+  <path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Inscrições</text>
+  <g transform="translate(34,350) scale(0.79)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Fila de espera</text>
+  <g transform="translate(34,400) scale(0.79)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Frequência</text>
+  <g transform="translate(34,450) scale(0.79)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Certificados</text>
+  <g transform="translate(34,500) scale(0.79)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Professores</text>
+  <g transform="translate(34,550) scale(0.79)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="566" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Conteúdo do portal</text>
+  <g transform="translate(34,600) scale(0.79)">
+  <path d="M4 20V10M10 20V4M16 20v-7M22 20H2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="616" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Relatórios</text>
+  <line x1="28" y1="902" x2="240" y2="902" stroke="#27476A" stroke-width="1.2"/>
+  <circle cx="48" cy="946" r="20" fill="#2C5480"/>
+  <text x="48" y="951.04" font-family="Arial, Helvetica, sans-serif" font-size="14.4" fill="#FFFFFF" font-weight="700" text-anchor="middle">RB</text>
+  <text x="78" y="946" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Robertson Barros</text>
+  <text x="78" y="964" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8FA6BA">Gestor da Escola</text>
+  <g transform="translate(28,980) scale(0.71)">
+  <path d="M14 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8M18 8l4 4-4 4M22 12H10" fill="none" stroke="#8FA6BA" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="54" y="993" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Sair do sistema</text>
+  <rect x="268" y="0" width="1172" height="96" fill="#FFFFFF"/>
+  <line x1="268" y1="96" x2="1440" y2="96" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="304" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Painel</text>
+  <g transform="translate(349.95,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="367.95" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700">Cursos</text>
+  <text x="304" y="62" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#122231" font-weight="700">Gestão de cursos</text>
+  <text x="304" y="83" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Cadastro, publicação e acompanhamento dos cursos e eventos</text>
+  <rect x="1364" y="28" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1375,39) scale(0.75)">
+  <path d="M12 3a6 6 0 0 0-6 6c0 5-2 6-2 6h16s-2-1-2-6a6 6 0 0 0-6-6M10 21h4" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1394" cy="36" r="7" fill="#A62B21"/>
+  <text x="1394" y="39.33" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+  <rect x="1229.9" y="28" width="122.1" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <g transform="translate(1246.9,39) scale(0.75)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1272.9" y="52.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" font-weight="700">Exportar</text>
+  <rect x="1080.28" y="28" width="137.62" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(1097.28,39) scale(0.75)">
+  <path d="M12 5v14M5 12h14" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1123.28" y="52.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Novo curso</text>
+  <rect x="304" y="132" width="1100" height="88" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="324" y="156" width="380" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(336,167) scale(0.71)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#95A5B4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="362" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#95A5B4">Buscar curso por título ou tema</text>
+  <rect x="724" y="156" width="190" height="40" rx="6" fill="#F7FAFC" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="736" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Situação: todas</text>
+  <g transform="translate(886,167) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="930" y="156" width="170" height="40" rx="6" fill="#F7FAFC" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="942" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Tema: todos</text>
+  <g transform="translate(1072,167) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1116" y="156" width="140" height="40" rx="6" fill="#F7FAFC" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="1128" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Ano: 2026</text>
+  <g transform="translate(1228,167) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1274" y="156" width="110" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1329" y="180.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" font-weight="700" text-anchor="middle">Filtrar</text>
+  <rect x="304" y="244" width="1100" height="574" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="244" width="1100" height="46" rx="10" fill="#F5F8FB"/>
+  <rect x="304" y="278" width="1100" height="12" fill="#F5F8FB"/>
+  <line x1="304" y1="290" x2="1404" y2="290" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="324" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">CURSO</text>
+  <text x="650.92" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">TEMA</text>
+  <text x="844.09" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">TURMAS</text>
+  <text x="943.16" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">INSCRITOS</text>
+  <text x="1071.94" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">SITUAÇÃO</text>
+  <text x="1384" y="271" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="end" letter-spacing="0.6">AÇÕES</text>
+  <text x="324" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Processo Legislativo Municipal</text>
+  <text x="324" y="338" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">8h · Online e Presencial</text>
+  <text x="650.92" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Processo...</text>
+  <text x="844.09" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">3</text>
+  <text x="943.16" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">59/95</text>
+  <rect x="1028.89" y="311" width="86.1" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1040.89" y="327.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Publicado</text>
+  <rect x="1256" y="308" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,315) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="308" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,315) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="308" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,315) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="308" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,315) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="356" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="356" x2="1384" y2="356" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Ética e Conduta no Serviço Público</text>
+  <text x="324" y="404" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">12h · Presencial</text>
+  <text x="650.92" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Direito</text>
+  <text x="844.09" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="943.16" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">18/40</text>
+  <rect x="1032.34" y="377" width="79.2" height="24" rx="12" fill="#FCF0DA" stroke="#B0700A" stroke-width="1"/>
+  <text x="1044.34" y="393.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B0700A" font-weight="700">Em breve</text>
+  <rect x="1256" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,381) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,381) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,381) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,381) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="422" x2="1384" y2="422" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Tecnologia e Governo Digital</text>
+  <text x="324" y="470" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">6h · Híbrido</text>
+  <text x="650.92" y="460" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Tecnologia</text>
+  <text x="844.09" y="460" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="943.16" y="460" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">35/35</text>
+  <rect x="1032.34" y="443" width="79.2" height="24" rx="12" fill="#FAE8E6" stroke="#A62B21" stroke-width="1"/>
+  <text x="1044.34" y="459.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#A62B21" font-weight="700">Esgotado</text>
+  <rect x="1256" y="440" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,447) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="440" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,447) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="440" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,447) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="440" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,447) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="488" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="488" x2="1384" y2="488" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="518" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Redação Oficial e Técnica Legislativa</text>
+  <text x="324" y="536" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">12h · Presencial</text>
+  <text x="650.92" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Redação Oficial</text>
+  <text x="844.09" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">2</text>
+  <text x="943.16" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">9/50</text>
+  <rect x="1028.89" y="509" width="86.1" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1040.89" y="525.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Publicado</text>
+  <rect x="1256" y="506" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,513) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="506" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,513) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="506" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,513) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="506" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,513) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="554" x2="1384" y2="554" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Orçamento Público e LOA Municipal</text>
+  <text x="324" y="602" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">8h · Online</text>
+  <text x="650.92" y="592" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Orçamento</text>
+  <text x="844.09" y="592" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">2</text>
+  <text x="943.16" y="592" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">27/60</text>
+  <rect x="1028.89" y="575" width="86.1" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1040.89" y="591.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Publicado</text>
+  <rect x="1256" y="572" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,579) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="572" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,579) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="572" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,579) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="572" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,579) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="620" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="620" x2="1384" y2="620" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="650" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">LGPD na Administração Pública</text>
+  <text x="324" y="668" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">8h · Híbrido</text>
+  <text x="650.92" y="658" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Direito</text>
+  <text x="844.09" y="658" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="943.16" y="658" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">0/50</text>
+  <rect x="1032.34" y="641" width="79.2" height="24" rx="12" fill="#EDF1F5" stroke="#C2CEDA" stroke-width="1"/>
+  <text x="1044.34" y="657.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Rascunho</text>
+  <rect x="1256" y="638" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,645) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="638" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,645) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="638" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,645) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="638" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,645) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="686" x2="1384" y2="686" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="716" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Controle Interno e Prestação de Contas</text>
+  <text x="324" y="734" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">8h · Presencial</text>
+  <text x="650.92" y="724" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Controle</text>
+  <text x="844.09" y="724" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="943.16" y="724" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">30/30</text>
+  <rect x="1028.89" y="707" width="86.1" height="24" rx="12" fill="#EDF1F5" stroke="#C2CEDA" stroke-width="1"/>
+  <text x="1040.89" y="723.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Encerrado</text>
+  <rect x="1256" y="704" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,711) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="704" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,711) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="704" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,711) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="704" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,711) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="752" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="752" x2="1384" y2="752" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="782" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Audiências Públicas e Participação...</text>
+  <text x="324" y="800" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">4h · Online</text>
+  <text x="650.92" y="790" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Processo...</text>
+  <text x="844.09" y="790" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="943.16" y="790" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">80/80</text>
+  <rect x="1028.89" y="773" width="86.1" height="24" rx="12" fill="#EDF1F5" stroke="#C2CEDA" stroke-width="1"/>
+  <text x="1040.89" y="789.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Encerrado</text>
+  <rect x="1256" y="770" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1263,777) scale(0.67)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#1263A5" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1290" y="770" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1297,777) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1324" y="770" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,777) scale(0.67)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="770" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,777) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="304" y="862" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Exibindo 1-10 de 23 registros</text>
+  <rect x="1164" y="842" width="34" height="34" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1173.5,851.5) scale(0.62)">
+  <path d="M14.5 5 8 12l6.5 7" fill="none" stroke="#64778A" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1204" y="842" width="34" height="34" rx="6" fill="#1263A5" stroke="#1263A5" stroke-width="1.2"/>
+  <text x="1221" y="863.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+  <rect x="1244" y="842" width="34" height="34" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <text x="1261" y="863.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" text-anchor="middle">2</text>
+  <rect x="1284" y="842" width="34" height="34" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <text x="1301" y="863.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" text-anchor="middle">3</text>
+  <rect x="1324" y="842" width="34" height="34" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <text x="1341" y="863.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" text-anchor="middle">4</text>
+  <rect x="1364" y="842" width="34" height="34" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1373.5,851.5) scale(0.62)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#64778A" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1024" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1024" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1060" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1064" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1092" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1079" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="388.25" y="1094.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 12</text>
+  <text x="120" y="1124" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1144" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">RF 12 - Gestão de cursos: criar, editar, publicar, despublicar e encerrar cursos e eventos, com controle de situação e de turmas vinculadas.</text>
+  </g>
+</svg>

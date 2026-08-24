@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1223" viewBox="0 0 1440 1223">
+  <title>23-login-erro-e-bloqueio</title>
+  <rect width="1440" height="1223" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="560" height="980" fill="#0E2C4B"/>
+  <rect x="0" y="0" width="4" height="980" fill="#B8862B"/>
+  <rect x="64" y="64" width="52" height="52" rx="9" fill="#1E4D75"/>
+  <g transform="translate(77,77) scale(1.08)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="128" y="84" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <text x="128" y="104" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">Câmara Municipal do Recife</text>
+  <text x="64" y="232" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Bem-vindo à Área Restrita</text>
+  <text x="64" y="274" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">Acesse para se inscrever em cursos, acompanhar suas</text>
+  <text x="64" y="298" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">turmas e baixar seus certificados.</text>
+  <rect x="64" y="380" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,391) scale(0.83)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="398" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Mensagem genérica</text>
+  <text x="120" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">O sistema não informa qual campo está errado.</text>
+  <rect x="64" y="472" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,483) scale(0.83)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="490" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Bloqueio temporário</text>
+  <text x="120" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Proteção contra tentativas automatizadas.</text>
+  <rect x="64" y="564" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,575) scale(0.83)">
+  <path d="M15 3a6 6 0 1 0-4.2 10.2L4 20v3h4v-3h3v-3h3l1-1v-3A6 6 0 0 0 15 3" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="582" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Recuperação segura</text>
+  <text x="120" y="604" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Link único e temporário enviado por e-mail.</text>
+  <line x1="64" y1="850" x2="496" y2="850" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(64,874) scale(0.75)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="92" y="886" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">Seus dados são tratados conforme a LGPD (Lei 13.709/2018) e</text>
+  <text x="92" y="904" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">usados apenas para gestão das capacitações da Escola.</text>
+  <rect x="560" y="0" width="880" height="980" fill="#FFFFFF"/>
+  <text x="750" y="120" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#122231" font-weight="700">Entrar</text>
+  <rect x="750" y="164" width="440" height="88" rx="8" fill="#FAE8E6" stroke="#EBB7B1" stroke-width="1.2"/>
+  <rect x="750" y="164" width="4" height="88" rx="2" fill="#A62B21"/>
+  <g transform="translate(768,181) scale(0.83)">
+  <path d="M12 3 22 20H2zM12 9v5M12 17h.01" fill="none" stroke="#A62B21" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="800" y="195" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#A62B21" font-weight="700">Usuário ou senha incorretos.</text>
+  <text x="800" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Você tem mais 2 tentativas antes do bloqueio</text>
+  <text x="800" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">temporário da conta.</text>
+  <text x="750" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">CPF</text>
+  <text x="777.42" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="750" y="298" width="440" height="52" rx="6" fill="#FFFFFF" stroke="#A62B21" stroke-width="1.4"/>
+  <g transform="translate(763,315) scale(0.75)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="790" y="329" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">123.456.789-00</text>
+  <g transform="translate(750,356) scale(0.58)">
+  <path d="M12 3 22 20H2zM12 9v5M12 17h.01" fill="none" stroke="#A62B21" stroke-width="2.74" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="770" y="367" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#A62B21"> </text>
+  <text x="750" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Senha</text>
+  <text x="792.38" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="750" y="398" width="440" height="52" rx="6" fill="#FFFFFF" stroke="#A62B21" stroke-width="1.4"/>
+  <g transform="translate(763,415) scale(0.75)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="794" cy="424" r="3.6" fill="#2A3B4A"/>
+  <circle cx="805" cy="424" r="3.6" fill="#2A3B4A"/>
+  <circle cx="816" cy="424" r="3.6" fill="#2A3B4A"/>
+  <circle cx="827" cy="424" r="3.6" fill="#2A3B4A"/>
+  <g transform="translate(750,456) scale(0.58)">
+  <path d="M12 3 22 20H2zM12 9v5M12 17h.01" fill="none" stroke="#A62B21" stroke-width="2.74" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="770" y="467" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#A62B21">Verifique suas credenciais e tente novamente.</text>
+  <rect x="750" y="494" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="778" y="506.96" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Manter minha sessão</text>
+  <text x="1055.34" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#0D4E85">Esqueci minha senha</text>
+  <line x1="1055.34" y1="512" x2="1190" y2="512" stroke="#0D4E85" stroke-width="1"/>
+  <rect x="750" y="550" width="440" height="54" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="970" y="582.6" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar</text>
+  <rect x="750" y="644" width="440" height="200" rx="10" fill="#FCF0DA" stroke="#EBCE95" stroke-width="1.2"/>
+  <g transform="translate(772,668) scale(0.92)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#B0700A" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="806" y="686" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B0700A" font-weight="700">Política de bloqueio (proposta)</text>
+  <circle cx="780" cy="728" r="3.5" fill="#B0700A"/>
+  <text x="796" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Após 5 tentativas consecutivas malsucedidas, a conta é</text>
+  <text x="796" y="749" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">bloqueada por 30 minutos.</text>
+  <circle cx="780" cy="766" r="3.5" fill="#B0700A"/>
+  <text x="796" y="770" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">O aluno pode liberar o acesso antes disso usando</text>
+  <text x="796" y="787" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">'Esqueci minha senha'.</text>
+  <circle cx="780" cy="804" r="3.5" fill="#B0700A"/>
+  <text x="796" y="808" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">As tentativas são registradas em log de segurança com</text>
+  <text x="796" y="825" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">data, hora e IP.</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="980" width="1440" height="243" fill="#101E2B"/>
+  <rect x="0" y="980" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1016" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1048" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1035" width="132.4" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="426.2" y="1050.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 5 - Cenário B</text>
+  <text x="120" y="1080" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9B44C" font-weight="700">Decisões pendentes de reunião</text>
+  <circle cx="126" cy="1098" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 5 - Confirmar a política de bloqueio: bloquear a conta por 30 minutos após 5 tentativas consecutivas malsucedidas? Confirmar número de tentativas e tempo.</text>
+  <text x="120" y="1143" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1163" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Cenário B do RF 5: mensagem de erro genérica ('Usuário ou senha incorretos.'), sem indicar qual campo está errado, para evitar varredura de CPF/e-mail.</text>
+  </g>
+</svg>

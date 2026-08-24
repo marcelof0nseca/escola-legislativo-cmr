@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1242" viewBox="0 0 1440 1242">
+  <title>53-professor-painel</title>
+  <rect width="1440" height="1242" fill="#FFFFFF"/>
+  <rect x="268" y="0" width="1172" height="1080" fill="#F3F6FA"/>
+  <rect x="0" y="0" width="268" height="1080" fill="#0E2C4B"/>
+  <rect x="28" y="30" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(38,40) scale(0.92)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="46" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Escola do</text>
+  <text x="80" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Legislativo</text>
+  <text x="28" y="104" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#B8862B" font-weight="700" letter-spacing="1.4">ÁREA DO PROFESSOR</text>
+  <line x1="28" y1="118" x2="240" y2="118" stroke="#27476A" stroke-width="1.2"/>
+  <rect x="14" y="138" width="240" height="44" rx="8" fill="#1E4D75"/>
+  <rect x="14" y="147" width="3.5" height="26" rx="2" fill="#B8862B"/>
+  <g transform="translate(34,150) scale(0.79)">
+  <path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Painel</text>
+  <g transform="translate(34,200) scale(0.79)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Meus cursos</text>
+  <g transform="translate(34,250) scale(0.79)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Alunos inscritos</text>
+  <g transform="translate(34,300) scale(0.79)">
+  <path d="M3 6h6l2 3h10v11H3zM3 6v14" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Materiais</text>
+  <g transform="translate(34,350) scale(0.79)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Meus dados</text>
+  <line x1="28" y1="958" x2="240" y2="958" stroke="#27476A" stroke-width="1.2"/>
+  <circle cx="48" cy="1002" r="20" fill="#2C5480"/>
+  <text x="48" y="1007.04" font-family="Arial, Helvetica, sans-serif" font-size="14.4" fill="#FFFFFF" font-weight="700" text-anchor="middle">HV</text>
+  <text x="78" y="1002" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Helena Vasconcelos</text>
+  <text x="78" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8FA6BA">Professora</text>
+  <g transform="translate(28,1036) scale(0.71)">
+  <path d="M14 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8M18 8l4 4-4 4M22 12H10" fill="none" stroke="#8FA6BA" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="54" y="1049" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Sair do sistema</text>
+  <rect x="268" y="0" width="1172" height="96" fill="#FFFFFF"/>
+  <line x1="268" y1="96" x2="1440" y2="96" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="304" y="46" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#122231" font-weight="700">Painel do Professor</text>
+  <text x="304" y="67" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Cursos e turmas vinculados a você</text>
+  <rect x="1364" y="28" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1375,39) scale(0.75)">
+  <path d="M12 3a6 6 0 0 0-6 6c0 5-2 6-2 6h16s-2-1-2-6a6 6 0 0 0-6-6M10 21h4" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1394" cy="36" r="7" fill="#A62B21"/>
+  <text x="1394" y="39.33" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+  <rect x="304" y="132" width="1100" height="116" rx="10" fill="#0E2C4B"/>
+  <rect x="304" y="132" width="6" height="116" rx="3" fill="#B8862B"/>
+  <circle cx="360" cy="190" r="28" fill="#1E4D75"/>
+  <text x="360" y="197.06" font-family="Arial, Helvetica, sans-serif" font-size="20.16" fill="#FFFFFF" font-weight="700" text-anchor="middle">HV</text>
+  <text x="404" y="186" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#FFFFFF" font-weight="700">Olá, Dra. Helena Vasconcelos</text>
+  <text x="404" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#B7C7D6">Procuradora Legislativa · Processo Legislativo e Direito Municipal</text>
+  <rect x="1248.5" y="176" width="127.5" height="28" rx="14" fill="#FAF1DD" stroke="#E7D2A4" stroke-width="1"/>
+  <text x="1260.5" y="194.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8A6414" font-weight="700">Acesso restrito</text>
+  <rect x="304" y="272" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="324" y="292" width="42" height="42" rx="9" fill="#E8F1F9"/>
+  <g transform="translate(334.5,302.5) scale(0.88)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#1263A5" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="324" y="362" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">3</text>
+  <text x="324" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Cursos vinculados</text>
+  <text x="324" y="406" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">1 em andamento</text>
+  <rect x="584" y="272" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="604" y="292" width="42" height="42" rx="9" fill="#E3F3EC"/>
+  <g transform="translate(614.5,302.5) scale(0.88)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#1B7A57" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="604" y="362" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">2</text>
+  <text x="604" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Turmas ativas</text>
+  <text x="604" y="406" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">próxima em 14/09</text>
+  <rect x="864" y="272" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="884" y="292" width="42" height="42" rx="9" fill="#FAF1DD"/>
+  <g transform="translate(894.5,302.5) scale(0.88)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#B8862B" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="884" y="362" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">59</text>
+  <text x="884" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Alunos inscritos</text>
+  <text x="884" y="406" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">nas turmas ativas</text>
+  <rect x="1144" y="272" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1164" y="292" width="42" height="42" rx="9" fill="#EDEAF7"/>
+  <g transform="translate(1174.5,302.5) scale(0.88)">
+  <path d="M3 6h6l2 3h10v11H3zM3 6v14" fill="none" stroke="#5A4A96" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1164" y="362" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">12</text>
+  <text x="1164" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Materiais enviados</text>
+  <text x="1164" y="406" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">4 aguardando revisão</text>
+  <text x="304" y="468" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#122231" font-weight="700">Meus cursos vinculados</text>
+  <text x="304" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Você só tem acesso aos cursos em que está vinculada como professora</text>
+  <rect x="304" y="518" width="1100" height="220" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="328" y="542" width="44" height="44" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(339,553) scale(0.92)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#1263A5" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="388" y="560" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#122231" font-weight="700">Processo Legislativo Municipal</text>
+  <text x="388" y="582" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">8 horas · Online e Presencial</text>
+  <rect x="1273.2" y="550" width="106.8" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1285.2" y="566.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Em andamento</text>
+  <line x1="328" y1="606" x2="1380" y2="606" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(334,624) scale(0.71)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="362" y="632" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Turma A - Manhã</text>
+  <text x="504" y="632" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">14 e 15/09/2026 · 09h às 12h</text>
+  <text x="784" y="632" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">6/30 inscritos</text>
+  <rect x="1230" y="618" width="150" height="36" rx="6" fill="#FFFFFF" stroke="#1263A5" stroke-width="1.5"/>
+  <text x="1305" y="640.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#1263A5" font-weight="700" text-anchor="middle">Ver alunos</text>
+  <rect x="1090" y="618" width="130" height="36" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1155" y="640.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A" font-weight="700" text-anchor="middle">Materiais</text>
+  <line x1="328" y1="668" x2="1380" y2="668" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(334,686) scale(0.71)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="362" y="694" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Turma B - Noite</text>
+  <text x="504" y="694" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">14 e 15/09/2026 · 19h às 22h</text>
+  <text x="784" y="694" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">18/30 inscritos</text>
+  <rect x="1230" y="680" width="150" height="36" rx="6" fill="#FFFFFF" stroke="#1263A5" stroke-width="1.5"/>
+  <text x="1305" y="702.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#1263A5" font-weight="700" text-anchor="middle">Ver alunos</text>
+  <rect x="1090" y="680" width="130" height="36" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1155" y="702.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A" font-weight="700" text-anchor="middle">Materiais</text>
+  <rect x="304" y="758" width="1100" height="158" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="328" y="782" width="44" height="44" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(339,793) scale(0.92)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#1263A5" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="388" y="800" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#122231" font-weight="700">Introdução ao Direito Municipal</text>
+  <text x="388" y="822" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">15 horas · Presencial</text>
+  <rect x="1293.9" y="790" width="86.1" height="24" rx="12" fill="#EDF1F5" stroke="#C2CEDA" stroke-width="1"/>
+  <text x="1305.9" y="806.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Encerrado</text>
+  <line x1="328" y1="846" x2="1380" y2="846" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(334,864) scale(0.71)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="362" y="872" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Turma A</text>
+  <text x="504" y="872" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">03 a 07/03/2026 · 19h às 22h</text>
+  <text x="784" y="872" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">25/25 inscritos</text>
+  <rect x="1230" y="858" width="150" height="36" rx="6" fill="#FFFFFF" stroke="#1263A5" stroke-width="1.5"/>
+  <text x="1305" y="880.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#1263A5" font-weight="700" text-anchor="middle">Ver alunos</text>
+  <rect x="1090" y="858" width="130" height="36" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1155" y="880.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A" font-weight="700" text-anchor="middle">Materiais</text>
+  <rect x="304" y="948" width="1100" height="88" rx="8" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1.2"/>
+  <rect x="304" y="948" width="4" height="88" rx="2" fill="#0D4E85"/>
+  <g transform="translate(322,965) scale(0.83)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 11v6M12 7.5h.01" fill="none" stroke="#0D4E85" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="354" y="979" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0D4E85" font-weight="700">O que o professor pode fazer no portal</text>
+  <text x="354" y="1001" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Conforme definido no documento de requisitos, o acesso do professor é restrito a consultar a lista de alunos inscritos e enviar materiais para</text>
+  <text x="354" y="1021" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">os cursos vinculados a ele. Frequência, certificados e cadastros são de responsabilidade do Gestor da Escola.</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1080" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1080" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1116" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1148" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1135" width="139.3" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="429.65" y="1150.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">ÁREA DO PROFESSOR</text>
+  <rect x="507.3" y="1135" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="535.55" y="1150.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 16</text>
+  <text x="120" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1200" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Painel do professor com os cursos vinculados e atalhos para a lista de alunos e para o envio de materiais.</text>
+  </g>
+</svg>

@@ -1,0 +1,319 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1490" viewBox="0 0 1440 1490">
+  <title>51-gestor-conteudo-parceiras-e-paginas</title>
+  <rect width="1440" height="1490" fill="#FFFFFF"/>
+  <rect x="268" y="0" width="1172" height="1328" fill="#F3F6FA"/>
+  <rect x="0" y="0" width="268" height="1328" fill="#0E2C4B"/>
+  <rect x="28" y="30" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(38,40) scale(0.92)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="46" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Escola do</text>
+  <text x="80" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Legislativo</text>
+  <text x="28" y="104" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#B8862B" font-weight="700" letter-spacing="1.4">ÁREA DO GESTOR</text>
+  <line x1="28" y1="118" x2="240" y2="118" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(34,150) scale(0.79)">
+  <path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Painel</text>
+  <g transform="translate(34,200) scale(0.79)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Cursos</text>
+  <g transform="translate(34,250) scale(0.79)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Turmas</text>
+  <g transform="translate(34,300) scale(0.79)">
+  <path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Inscrições</text>
+  <g transform="translate(34,350) scale(0.79)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Fila de espera</text>
+  <g transform="translate(34,400) scale(0.79)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Frequência</text>
+  <g transform="translate(34,450) scale(0.79)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Certificados</text>
+  <g transform="translate(34,500) scale(0.79)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Professores</text>
+  <rect x="14" y="538" width="240" height="44" rx="8" fill="#1E4D75"/>
+  <rect x="14" y="547" width="3.5" height="26" rx="2" fill="#B8862B"/>
+  <g transform="translate(34,550) scale(0.79)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="566" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Conteúdo do portal</text>
+  <g transform="translate(34,600) scale(0.79)">
+  <path d="M4 20V10M10 20V4M16 20v-7M22 20H2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="616" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Relatórios</text>
+  <line x1="28" y1="1206" x2="240" y2="1206" stroke="#27476A" stroke-width="1.2"/>
+  <circle cx="48" cy="1250" r="20" fill="#2C5480"/>
+  <text x="48" y="1255.04" font-family="Arial, Helvetica, sans-serif" font-size="14.4" fill="#FFFFFF" font-weight="700" text-anchor="middle">RB</text>
+  <text x="78" y="1250" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Robertson Barros</text>
+  <text x="78" y="1268" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8FA6BA">Gestor da Escola</text>
+  <g transform="translate(28,1284) scale(0.71)">
+  <path d="M14 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8M18 8l4 4-4 4M22 12H10" fill="none" stroke="#8FA6BA" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="54" y="1297" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Sair do sistema</text>
+  <rect x="268" y="0" width="1172" height="96" fill="#FFFFFF"/>
+  <line x1="268" y1="96" x2="1440" y2="96" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="304" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Painel</text>
+  <g transform="translate(349.95,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="367.95" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Conteúdo do portal</text>
+  <g transform="translate(495.8,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="513.8" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700">Parceiras e páginas</text>
+  <text x="304" y="62" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#122231" font-weight="700">Conteúdo do portal</text>
+  <text x="304" y="83" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Escolas parceiras, instrumentos jurídicos e páginas</text>
+  <rect x="1364" y="28" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1375,39) scale(0.75)">
+  <path d="M12 3a6 6 0 0 0-6 6c0 5-2 6-2 6h16s-2-1-2-6a6 6 0 0 0-6-6M10 21h4" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1394" cy="36" r="7" fill="#A62B21"/>
+  <text x="1394" y="39.33" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+  <rect x="304" y="132" width="92.8" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="350.4" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Notícias</text>
+  <rect x="406.8" y="132" width="173.65" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="493.62" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Acervo / Biblioteca</text>
+  <rect x="590.45" y="132" width="251.35" height="40" rx="20" fill="#0E2C4B" stroke="#0E2C4B" stroke-width="1.3"/>
+  <text x="716.12" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">Escolas parceiras e páginas</text>
+  <text x="304" y="196" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#122231" font-weight="700">Escolas do Legislativo parceiras</text>
+  <text x="304" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Links exibidos no portal e na página de parcerias</text>
+  <rect x="1224" y="184" width="180" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(1250.54,195) scale(0.75)">
+  <path d="M12 5v14M5 12h14" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1276.54" y="208.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Nova parceira</text>
+  <rect x="304" y="250" width="1100" height="442" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="250" width="1100" height="46" rx="10" fill="#F5F8FB"/>
+  <rect x="304" y="284" width="1100" height="12" fill="#F5F8FB"/>
+  <line x1="304" y1="296" x2="1404" y2="296" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="324" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">ESCOLA</text>
+  <text x="642" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">ENDEREÇO DO SITE</text>
+  <text x="911.82" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">INSTRUMENTO FORMALIZADO</text>
+  <text x="1215.36" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">SITUAÇÃO</text>
+  <text x="1384" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="end" letter-spacing="0.6">AÇÕES</text>
+  <text x="324" y="326" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Escola do Legislativo de Minas Gerais</text>
+  <text x="324" y="344" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ALMG</text>
+  <text x="642" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">www.almg.gov.br</text>
+  <text x="911.82" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acordo de Cooperação Técnica</text>
+  <rect x="1179.21" y="317" width="72.3" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1191.21" y="333.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Vigente</text>
+  <rect x="1324" y="314" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,321) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="314" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,321) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="362" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="362" x2="1384" y2="362" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Escola do Legislativo do Paraná</text>
+  <text x="324" y="410" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ALEP</text>
+  <text x="642" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">escola.assembleia.pr.leg.br</text>
+  <text x="911.82" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acordo de Cooperação Técnica</text>
+  <rect x="1179.21" y="383" width="72.3" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1191.21" y="399.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Vigente</text>
+  <rect x="1324" y="380" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,387) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="380" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,387) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="428" x2="1384" y2="428" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="458" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Instituto Legislativo Brasileiro</text>
+  <text x="324" y="476" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ILB</text>
+  <text x="642" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">saberes.senado.leg.br</text>
+  <text x="911.82" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Termo de Adesão - Interlegis</text>
+  <rect x="1179.21" y="449" width="72.3" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1191.21" y="465.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Vigente</text>
+  <rect x="1324" y="446" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,453) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="446" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,453) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="494" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="494" x2="1384" y2="494" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Escola do Legislativo de Pernambuco</text>
+  <text x="324" y="542" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ALEPE</text>
+  <text x="642" y="532" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">www.alepe.pe.gov.br</text>
+  <text x="911.82" y="532" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Convênio de Capacitação</text>
+  <rect x="1179.21" y="515" width="72.3" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1191.21" y="531.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Vigente</text>
+  <rect x="1324" y="512" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,519) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="512" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,519) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="560" x2="1384" y2="560" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="590" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Câmara Municipal de Olinda</text>
+  <text x="324" y="608" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">CMO</text>
+  <text x="642" y="598" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">www.olinda.pe.leg.br</text>
+  <text x="911.82" y="598" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Termo de Cooperação</text>
+  <rect x="1179.21" y="581" width="72.3" height="24" rx="12" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <text x="1191.21" y="597.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Vigente</text>
+  <rect x="1324" y="578" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,585) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="578" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,585) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="626" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="626" x2="1384" y2="626" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="656" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">ABEL - Assoc. Bras. de Escolas do...</text>
+  <text x="324" y="674" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ABEL</text>
+  <text x="642" y="664" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">abel.org.br</text>
+  <text x="911.82" y="664" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Filiação institucional</text>
+  <rect x="1172.31" y="647" width="86.1" height="24" rx="12" fill="#EDF1F5" stroke="#C2CEDA" stroke-width="1"/>
+  <text x="1184.31" y="663.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Encerrado</text>
+  <rect x="1324" y="644" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,651) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="644" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,651) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="304" y="724" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#122231" font-weight="700">Instrumentos jurídicos formalizados</text>
+  <text x="304" y="746" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Alimentam a página Legislação e Transparência</text>
+  <rect x="1194" y="712" width="210" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(1223.9,723) scale(0.75)">
+  <path d="M12 5v14M5 12h14" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1249.9" y="736.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Novo instrumento</text>
+  <rect x="304" y="778" width="1100" height="244" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="778" width="1100" height="46" rx="10" fill="#F5F8FB"/>
+  <rect x="304" y="812" width="1100" height="12" fill="#F5F8FB"/>
+  <line x1="304" y1="824" x2="1404" y2="824" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="324" y="805" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">INSTRUMENTO</text>
+  <text x="613.09" y="805" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">PARTÍCIPE</text>
+  <text x="844.36" y="805" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">OBJETO</text>
+  <text x="1094.91" y="805" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">VIGÊNCIA</text>
+  <text x="1384" y="805" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="end" letter-spacing="0.6">ARQUIVO</text>
+  <text x="324" y="854" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Acordo de Cooperação nº 04/2026</text>
+  <text x="324" y="872" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">assinado em 10/08/2026</text>
+  <text x="613.09" y="862" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">ALMG - Minas Gerais</text>
+  <text x="844.36" y="862" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Intercâmbio de cursos</text>
+  <text x="1094.91" y="854" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">10/08/2026</text>
+  <text x="1094.91" y="872" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">até 09/08/2028</text>
+  <rect x="1324" y="842" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,849) scale(0.67)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="842" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,849) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="890" width="1098" height="66" fill="#FAFCFE"/>
+  <line x1="324" y1="890" x2="1384" y2="890" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="920" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Termo de Adesão nº 11/2025</text>
+  <text x="324" y="938" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Programa Interlegis</text>
+  <text x="613.09" y="928" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">ILB / Senado Federal</text>
+  <text x="844.36" y="928" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Uso da plataforma Saberes</text>
+  <text x="1094.91" y="920" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">02/2025</text>
+  <text x="1094.91" y="938" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">indeterminada</text>
+  <rect x="1324" y="908" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,915) scale(0.67)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="908" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,915) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="956" x2="1384" y2="956" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="986" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Convênio nº 22/2025</text>
+  <text x="324" y="1004" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">capacitação conjunta</text>
+  <text x="613.09" y="994" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">ALEPE - Pernambuco</text>
+  <text x="844.36" y="994" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Oferta compartilhada de turmas</text>
+  <text x="1094.91" y="986" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">05/2025</text>
+  <text x="1094.91" y="1004" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">até 04/2027</text>
+  <rect x="1324" y="974" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,981) scale(0.67)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="974" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,981) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="304" y="1054" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#122231" font-weight="700">Páginas institucionais</text>
+  <text x="304" y="1076" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Conteúdo das seções A ESCOLA e CONTATO</text>
+  <rect x="304" y="1108" width="260" height="176" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="324" y="1128" width="40" height="40" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(334,1138) scale(0.83)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#1263A5" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="324" y="1196" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Quem Somos</text>
+  <text x="324" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Missão, competências e composição</text>
+  <text x="324" y="1232" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">da Escola</text>
+  <text x="324" y="1256" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#95A5B4">Atualizada em 02/08/2026</text>
+  <rect x="468" y="1240" width="76" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="506" y="1259.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A" font-weight="700" text-anchor="middle">Editar</text>
+  <rect x="584" y="1108" width="260" height="176" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="604" y="1128" width="40" height="40" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(614,1138) scale(0.83)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#1263A5" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="604" y="1196" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">História</text>
+  <text x="604" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Linha do tempo e marcos</text>
+  <text x="604" y="1232" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">institucionais</text>
+  <text x="604" y="1256" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#95A5B4">Atualizada em 12/06/2026</text>
+  <rect x="748" y="1240" width="76" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="786" y="1259.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A" font-weight="700" text-anchor="middle">Editar</text>
+  <rect x="864" y="1108" width="260" height="176" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="884" y="1128" width="40" height="40" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(894,1138) scale(0.83)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#1263A5" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="884" y="1196" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Legislação e Transparência</text>
+  <text x="884" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Normas e instrumentos jurídicos</text>
+  <text x="884" y="1256" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#95A5B4">Atualizada em 12/08/2026</text>
+  <rect x="1028" y="1240" width="76" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1066" y="1259.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A" font-weight="700" text-anchor="middle">Editar</text>
+  <rect x="1144" y="1108" width="260" height="176" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1164" y="1128" width="40" height="40" rx="8" fill="#E8F1F9"/>
+  <g transform="translate(1174,1138) scale(0.83)">
+  <path d="M6 3h4l1.6 4.2-2.2 1.6a12 12 0 0 0 5.8 5.8l1.6-2.2L21 14v4a2 2 0 0 1-2.2 2A17 17 0 0 1 4 5.2 2 2 0 0 1 6 3Z" fill="none" stroke="#1263A5" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1164" y="1196" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Contato</text>
+  <text x="1164" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">E-mail, endereço, telefone e</text>
+  <text x="1164" y="1232" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">horário</text>
+  <text x="1164" y="1256" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#95A5B4">Atualizada em 15/03/2026</text>
+  <rect x="1308" y="1240" width="76" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="1346" y="1259.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A" font-weight="700" text-anchor="middle">Editar</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1328" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1328" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1364" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1368" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1396" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1383" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="388.25" y="1398.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 17</text>
+  <rect x="424.5" y="1383" width="139.3" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="494.15" y="1398.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">Escolas parceiras</text>
+  <rect x="571.8" y="1383" width="173.8" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="658.7" y="1398.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">Instrumentos jurídicos</text>
+  <text x="120" y="1428" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1448" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">RF 17 - Manutenção das informações do portal pelo Gestor: links das escolas parceiras, lista de instrumentos jurídicos formalizados e páginas institucionais.</text>
+  </g>
+</svg>

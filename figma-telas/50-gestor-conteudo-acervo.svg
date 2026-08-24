@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1362" viewBox="0 0 1440 1362">
+  <title>50-gestor-conteudo-acervo</title>
+  <rect width="1440" height="1362" fill="#FFFFFF"/>
+  <rect x="268" y="0" width="1172" height="1200" fill="#F3F6FA"/>
+  <rect x="0" y="0" width="268" height="1200" fill="#0E2C4B"/>
+  <rect x="28" y="30" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(38,40) scale(0.92)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="46" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Escola do</text>
+  <text x="80" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Legislativo</text>
+  <text x="28" y="104" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#B8862B" font-weight="700" letter-spacing="1.4">ÁREA DO GESTOR</text>
+  <line x1="28" y1="118" x2="240" y2="118" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(34,150) scale(0.79)">
+  <path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Painel</text>
+  <g transform="translate(34,200) scale(0.79)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Cursos</text>
+  <g transform="translate(34,250) scale(0.79)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Turmas</text>
+  <g transform="translate(34,300) scale(0.79)">
+  <path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Inscrições</text>
+  <g transform="translate(34,350) scale(0.79)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Fila de espera</text>
+  <g transform="translate(34,400) scale(0.79)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Frequência</text>
+  <g transform="translate(34,450) scale(0.79)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Certificados</text>
+  <g transform="translate(34,500) scale(0.79)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Professores</text>
+  <rect x="14" y="538" width="240" height="44" rx="8" fill="#1E4D75"/>
+  <rect x="14" y="547" width="3.5" height="26" rx="2" fill="#B8862B"/>
+  <g transform="translate(34,550) scale(0.79)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="566" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Conteúdo do portal</text>
+  <g transform="translate(34,600) scale(0.79)">
+  <path d="M4 20V10M10 20V4M16 20v-7M22 20H2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="616" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Relatórios</text>
+  <line x1="28" y1="1078" x2="240" y2="1078" stroke="#27476A" stroke-width="1.2"/>
+  <circle cx="48" cy="1122" r="20" fill="#2C5480"/>
+  <text x="48" y="1127.04" font-family="Arial, Helvetica, sans-serif" font-size="14.4" fill="#FFFFFF" font-weight="700" text-anchor="middle">RB</text>
+  <text x="78" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Robertson Barros</text>
+  <text x="78" y="1140" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8FA6BA">Gestor da Escola</text>
+  <g transform="translate(28,1156) scale(0.71)">
+  <path d="M14 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8M18 8l4 4-4 4M22 12H10" fill="none" stroke="#8FA6BA" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="54" y="1169" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Sair do sistema</text>
+  <rect x="268" y="0" width="1172" height="96" fill="#FFFFFF"/>
+  <line x1="268" y1="96" x2="1440" y2="96" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="304" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Painel</text>
+  <g transform="translate(349.95,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="367.95" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Conteúdo do portal</text>
+  <g transform="translate(495.8,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="513.8" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700">Acervo</text>
+  <text x="304" y="62" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#122231" font-weight="700">Conteúdo do portal</text>
+  <text x="304" y="83" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Publicações, manuais e legislações do acervo</text>
+  <rect x="1364" y="28" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1375,39) scale(0.75)">
+  <path d="M12 3a6 6 0 0 0-6 6c0 5-2 6-2 6h16s-2-1-2-6a6 6 0 0 0-6-6M10 21h4" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1394" cy="36" r="7" fill="#A62B21"/>
+  <text x="1394" y="39.33" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+  <rect x="304" y="132" width="92.8" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="350.4" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Notícias</text>
+  <rect x="406.8" y="132" width="186.95" height="40" rx="20" fill="#0E2C4B" stroke="#0E2C4B" stroke-width="1.3"/>
+  <text x="500.27" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">Acervo / Biblioteca</text>
+  <rect x="603.75" y="132" width="232.45" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="719.98" y="156.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Escolas parceiras e páginas</text>
+  <rect x="304" y="196" width="1100" height="88" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="324" y="220" width="360" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(336,231) scale(0.71)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#95A5B4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="362" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#95A5B4">Buscar no acervo</text>
+  <rect x="704" y="220" width="122.55" height="40" rx="20" fill="#0E2C4B" stroke="#0E2C4B" stroke-width="1.3"/>
+  <text x="765.27" y="244.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">Publicações</text>
+  <rect x="836.55" y="220" width="85.45" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="879.27" y="244.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Manuais</text>
+  <rect x="932" y="220" width="114.85" height="40" rx="20" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="989.42" y="244.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">Legislações</text>
+  <rect x="1214" y="220" width="170" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(1239.42,231) scale(0.75)">
+  <path d="M12 16V4M7.5 8.5 12 4l4.5 4.5M4 20h16" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1265.42" y="244.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Novo arquivo</text>
+  <rect x="304" y="308" width="1100" height="466" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="308" width="1100" height="46" rx="10" fill="#F5F8FB"/>
+  <rect x="304" y="342" width="1100" height="12" fill="#F5F8FB"/>
+  <line x1="304" y1="354" x2="1404" y2="354" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="324" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">ARQUIVO</text>
+  <text x="690.18" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">SEÇÃO</text>
+  <text x="844.36" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">AUTOR</text>
+  <text x="1017.82" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">PUBLICADO EM</text>
+  <text x="1220.18" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">DOWNLOADS</text>
+  <text x="1384" y="335" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="end" letter-spacing="0.6">AÇÕES</text>
+  <text x="324" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Manual de Técnica Legislativa - 3ª ed.</text>
+  <text x="324" y="404" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">PDF · 4,2 MB</text>
+  <text x="690.18" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Manuais</text>
+  <text x="844.36" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Helena Vasconcelos</text>
+  <text x="1017.82" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">12/07/2026</text>
+  <text x="1220.18" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1.248</text>
+  <rect x="1324" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,381) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="374" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,381) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="424" width="1098" height="70" fill="#FAFCFE"/>
+  <line x1="324" y1="424" x2="1384" y2="424" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Cartilha do Orçamento Público Municipal</text>
+  <text x="324" y="474" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">PDF · 1,8 MB</text>
+  <text x="690.18" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Publicações</text>
+  <text x="844.36" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Paulo Meneses</text>
+  <text x="1017.82" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">20/05/2026</text>
+  <text x="1220.18" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">864</text>
+  <rect x="1324" y="444" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,451) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="444" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,451) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="494" x2="1384" y2="494" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Coletânea de Legislação Municipal 2026</text>
+  <text x="324" y="544" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">PDF · 9,6 MB</text>
+  <text x="690.18" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Legislações</text>
+  <text x="844.36" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Escola do Legislativo</text>
+  <text x="1017.82" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">14/02/2026</text>
+  <text x="1220.18" y="534" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">2.017</text>
+  <rect x="1324" y="514" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,521) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="514" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,521) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="564" width="1098" height="70" fill="#FAFCFE"/>
+  <line x1="324" y1="564" x2="1384" y2="564" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="596" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Guia do Vereador Iniciante</text>
+  <text x="324" y="614" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">PDF · 2,4 MB</text>
+  <text x="690.18" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Publicações</text>
+  <text x="844.36" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Escola do Legislativo</text>
+  <text x="1017.82" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">03/11/2025</text>
+  <text x="1220.18" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1.530</text>
+  <rect x="1324" y="584" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,591) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="584" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,591) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="324" y1="634" x2="1384" y2="634" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="666" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Revista Legislativo Municipal nº 4</text>
+  <text x="324" y="684" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">PDF · 6,1 MB</text>
+  <text x="690.18" y="674" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Publicações</text>
+  <text x="844.36" y="674" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Vários autores</text>
+  <text x="1017.82" y="674" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">18/09/2025</text>
+  <text x="1220.18" y="674" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">742</text>
+  <rect x="1324" y="654" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,661) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="654" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,661) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="305" y="704" width="1098" height="70" fill="#FAFCFE"/>
+  <line x1="324" y1="704" x2="1384" y2="704" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="736" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Apostila - Redação Oficial na CMR</text>
+  <text x="324" y="754" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">DOCX · 1,1 MB</text>
+  <text x="690.18" y="744" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Manuais</text>
+  <text x="844.36" y="744" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Cláudia Nunes</text>
+  <text x="1017.82" y="744" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">05/08/2025</text>
+  <text x="1220.18" y="744" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">998</text>
+  <rect x="1324" y="724" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1331,731) scale(0.67)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1358" y="724" width="30" height="30" rx="5" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <g transform="translate(1365,731) scale(0.67)">
+  <path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14M10 11v6M14 11v6" fill="none" stroke="#A62B21" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="304" y="806" width="700" height="350" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="332" y="852" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#122231" font-weight="700">Enviar arquivo para o acervo</text>
+  <text x="332" y="884" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Título da publicação</text>
+  <text x="486.5" y="884" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="332" y="902" width="644" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="346" y="930" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Manual de Técnica Legislativa - 3ª edição</text>
+  <text x="332" y="972" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Seção do acervo</text>
+  <text x="449.12" y="972" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="332" y="990" width="313" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="346" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Manuais</text>
+  <g transform="translate(613,1004) scale(0.75)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="332" y="1053" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Publicações / Manuais / Legislações.</text>
+  <text x="663" y="972" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Autor(es)</text>
+  <rect x="663" y="990" width="313" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="677" y="1018" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Helena Vasconcelos</text>
+  <rect x="332" y="1078" width="644" height="88" rx="8" fill="#F7FAFC" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(352,1108) scale(0.92)">
+  <path d="M12 16V4M7.5 8.5 12 4l4.5 4.5M4 20h16" fill="none" stroke="#1263A5" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="386" y="1116" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0D4E85" font-weight="700">Arraste o arquivo ou clique para enviar</text>
+  <text x="386" y="1138" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">PDF, DOCX ou XLSX · até 20 MB</text>
+  <rect x="856" y="1104" width="120" height="38" rx="6" fill="#FFFFFF" stroke="#1263A5" stroke-width="1.5"/>
+  <text x="916" y="1127.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1263A5" font-weight="700" text-anchor="middle">Selecionar</text>
+  <rect x="1024" y="806" width="380" height="350" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="1046" y="850" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Como o acervo aparece</text>
+  <rect x="1046" y="874" width="336" height="46" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1056" y="884" width="26" height="26" rx="5" fill="#FAE8E6"/>
+  <g transform="translate(1062,890) scale(0.58)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1090" y="894" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#122231" font-weight="700">Manual de Técnica Legislativa</text>
+  <text x="1090" y="908" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">PDF · 4,2 MB</text>
+  <text x="1046" y="944" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Os arquivos ficam disponíveis na seção</text>
+  <text x="1046" y="962" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ACERVO/BIBLIOTECA do portal, separados nas abas</text>
+  <text x="1046" y="980" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Publicações, Manuais e Legislações, com busca por</text>
+  <text x="1046" y="998" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">título, autor e assunto.</text>
+  <line x1="1046" y1="1032" x2="1382" y2="1032" stroke="#EDF1F6" stroke-width="1.2"/>
+  <text x="1046" y="1060" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A" font-weight="700">Downloads no mês</text>
+  <text x="1046" y="1092" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#122231" font-weight="700">3.412</text>
+  <text x="1124" y="1092" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">+18% vs. mês anterior</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1200" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1200" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1236" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1240" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1268" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1255" width="139.3" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="429.65" y="1270.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">ACERVO/BIBLIOTECA</text>
+  <rect x="507.3" y="1255" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="535.55" y="1270.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 17</text>
+  <text x="120" y="1300" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1320" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">RF 17 - Inserção de materiais no acervo pelo Gestor da Escola, distribuídos nas três abas previstas na estrutura do portal.</text>
+  </g>
+</svg>

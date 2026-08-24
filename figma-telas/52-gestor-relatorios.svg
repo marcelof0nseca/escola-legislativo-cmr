@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1330" viewBox="0 0 1440 1330">
+  <title>52-gestor-relatorios</title>
+  <rect width="1440" height="1330" fill="#FFFFFF"/>
+  <rect x="268" y="0" width="1172" height="1168" fill="#F3F6FA"/>
+  <rect x="0" y="0" width="268" height="1168" fill="#0E2C4B"/>
+  <rect x="28" y="30" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(38,40) scale(0.92)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="46" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Escola do</text>
+  <text x="80" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Legislativo</text>
+  <text x="28" y="104" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#B8862B" font-weight="700" letter-spacing="1.4">ÁREA DO GESTOR</text>
+  <line x1="28" y1="118" x2="240" y2="118" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(34,150) scale(0.79)">
+  <path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Painel</text>
+  <g transform="translate(34,200) scale(0.79)">
+  <path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4zM20 4h-6M20 4v13h-3" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Cursos</text>
+  <g transform="translate(34,250) scale(0.79)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Turmas</text>
+  <g transform="translate(34,300) scale(0.79)">
+  <path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Inscrições</text>
+  <g transform="translate(34,350) scale(0.79)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Fila de espera</text>
+  <g transform="translate(34,400) scale(0.79)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Frequência</text>
+  <g transform="translate(34,450) scale(0.79)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Certificados</text>
+  <g transform="translate(34,500) scale(0.79)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Professores</text>
+  <g transform="translate(34,550) scale(0.79)">
+  <path d="M4 20h4L20 8l-4-4L4 16zM15 5l4 4" fill="none" stroke="#8FA6BA" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="566" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">Conteúdo do portal</text>
+  <rect x="14" y="588" width="240" height="44" rx="8" fill="#1E4D75"/>
+  <rect x="14" y="597" width="3.5" height="26" rx="2" fill="#B8862B"/>
+  <g transform="translate(34,600) scale(0.79)">
+  <path d="M4 20V10M10 20V4M16 20v-7M22 20H2" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="68" y="616" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">Relatórios</text>
+  <line x1="28" y1="1046" x2="240" y2="1046" stroke="#27476A" stroke-width="1.2"/>
+  <circle cx="48" cy="1090" r="20" fill="#2C5480"/>
+  <text x="48" y="1095.04" font-family="Arial, Helvetica, sans-serif" font-size="14.4" fill="#FFFFFF" font-weight="700" text-anchor="middle">RB</text>
+  <text x="78" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Robertson Barros</text>
+  <text x="78" y="1108" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8FA6BA">Gestor da Escola</text>
+  <g transform="translate(28,1124) scale(0.71)">
+  <path d="M14 4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8M18 8l4 4-4 4M22 12H10" fill="none" stroke="#8FA6BA" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="54" y="1137" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Sair do sistema</text>
+  <rect x="268" y="0" width="1172" height="96" fill="#FFFFFF"/>
+  <line x1="268" y1="96" x2="1440" y2="96" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="304" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Painel</text>
+  <g transform="translate(349.95,23) scale(0.54)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#95A5B4" stroke-width="3.32" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="367.95" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700">Relatórios</text>
+  <text x="304" y="62" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#122231" font-weight="700">Relatórios e indicadores</text>
+  <text x="304" y="83" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Acompanhamento das capacitações da Escola</text>
+  <rect x="1364" y="28" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1375,39) scale(0.75)">
+  <path d="M12 3a6 6 0 0 0-6 6c0 5-2 6-2 6h16s-2-1-2-6a6 6 0 0 0-6-6M10 21h4" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1394" cy="36" r="7" fill="#A62B21"/>
+  <text x="1394" y="39.33" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+  <rect x="304" y="132" width="1100" height="100" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="328" y="166" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Período</text>
+  <rect x="328" y="174" width="260" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="340" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">01/01/2026 a 19/08/2026</text>
+  <g transform="translate(560,185) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="604" y="166" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Curso</text>
+  <rect x="604" y="174" width="240" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="616" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Todos os cursos</text>
+  <g transform="translate(816,185) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="860" y="166" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700">Tipo de vínculo</text>
+  <rect x="860" y="174" width="200" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <text x="872" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Todos</text>
+  <g transform="translate(1032,185) scale(0.71)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1260" y="174" width="120" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1320" y="198.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Gerar</text>
+  <rect x="1120" y="174" width="130" height="40" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <g transform="translate(1140.95,185) scale(0.75)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1166.95" y="198.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" font-weight="700">Exportar</text>
+  <rect x="304" y="256" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="324" y="276" width="42" height="42" rx="9" fill="#E8F1F9"/>
+  <g transform="translate(334.5,286.5) scale(0.88)">
+  <path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="#1263A5" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="324" y="346" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">1.284</text>
+  <text x="324" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Inscrições no período</text>
+  <text x="324" y="390" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">+22% vs. 2025</text>
+  <rect x="584" y="256" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="604" y="276" width="42" height="42" rx="9" fill="#E3F3EC"/>
+  <g transform="translate(614.5,286.5) scale(0.88)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#1B7A57" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="604" y="346" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">82%</text>
+  <text x="604" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Taxa de comparecimento</text>
+  <text x="604" y="390" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">meta: 80%</text>
+  <rect x="864" y="256" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="884" y="276" width="42" height="42" rx="9" fill="#EDEAF7"/>
+  <g transform="translate(894.5,286.5) scale(0.88)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#5A4A96" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="884" y="346" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">946</text>
+  <text x="884" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Certificados emitidos</text>
+  <text x="884" y="390" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">em 23 turmas</text>
+  <rect x="1144" y="256" width="260" height="164" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1164" y="276" width="42" height="42" rx="9" fill="#FAE8E6"/>
+  <g transform="translate(1174.5,286.5) scale(0.88)">
+  <path d="M6 6 18 18M18 6 6 18" fill="none" stroke="#A62B21" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1164" y="346" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#122231" font-weight="700">97</text>
+  <text x="1164" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Cancelamentos</text>
+  <text x="1164" y="390" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">7,5% das inscrições</text>
+  <rect x="304" y="444" width="700" height="320" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="328" y="486" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Inscrições por mês</text>
+  <rect x="348" y="623.04" width="61.5" height="80.96" rx="4" fill="#1263A5"/>
+  <text x="378.75" y="616.89" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">88</text>
+  <text x="378.75" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">JAN</text>
+  <rect x="425.5" y="589.92" width="61.5" height="114.08" rx="4" fill="#1263A5"/>
+  <text x="456.25" y="583.77" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">124</text>
+  <text x="456.25" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">FEV</text>
+  <rect x="503" y="615.68" width="61.5" height="88.32" rx="4" fill="#1263A5"/>
+  <text x="533.75" y="609.53" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">96</text>
+  <text x="533.75" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">MAR</text>
+  <rect x="580.5" y="564.16" width="61.5" height="139.84" rx="4" fill="#1263A5"/>
+  <text x="611.25" y="558.01" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">152</text>
+  <text x="611.25" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">ABR</text>
+  <rect x="658" y="595.44" width="61.5" height="108.56" rx="4" fill="#1263A5"/>
+  <text x="688.75" y="589.29" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">118</text>
+  <text x="688.75" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">MAI</text>
+  <rect x="735.5" y="572.44" width="61.5" height="131.56" rx="4" fill="#1263A5"/>
+  <text x="766.25" y="566.29" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">143</text>
+  <text x="766.25" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">JUN</text>
+  <rect x="813" y="550.36" width="61.5" height="153.64" rx="4" fill="#1263A5"/>
+  <text x="843.75" y="544.21" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">167</text>
+  <text x="843.75" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">JUL</text>
+  <rect x="890.5" y="530.12" width="61.5" height="173.88" rx="4" fill="#B8862B"/>
+  <text x="921.25" y="523.97" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" font-weight="700" text-anchor="middle">189</text>
+  <text x="921.25" y="729.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64778A" text-anchor="middle">AGO</text>
+  <line x1="334" y1="708" x2="974" y2="708" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="788" width="700" height="336" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="304" y="788" width="700" height="46" rx="10" fill="#F5F8FB"/>
+  <rect x="304" y="822" width="700" height="12" fill="#F5F8FB"/>
+  <line x1="304" y1="834" x2="1004" y2="834" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="324" y="815" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" letter-spacing="0.6">CURSO</text>
+  <text x="620.03" y="815" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">TURMAS</text>
+  <text x="712.24" y="815" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">INSCRITOS</text>
+  <text x="819" y="815" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle" letter-spacing="0.6">PRESENÇA</text>
+  <text x="984" y="815" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="end" letter-spacing="0.6">CERTIFICADOS</text>
+  <text x="324" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Processo Legislativo Municipal</text>
+  <text x="620.03" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">3</text>
+  <text x="712.24" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">59</text>
+  <text x="819" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">88%</text>
+  <text x="984" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="end">42</text>
+  <rect x="305" y="892" width="698" height="58" fill="#FAFCFE"/>
+  <line x1="324" y1="892" x2="984" y2="892" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="926" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Redação Oficial e Técnica...</text>
+  <text x="620.03" y="926" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">2</text>
+  <text x="712.24" y="926" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">41</text>
+  <text x="819" y="926" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">91%</text>
+  <text x="984" y="926" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="end">38</text>
+  <line x1="324" y1="950" x2="984" y2="950" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="984" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Orçamento Público e LOA...</text>
+  <text x="620.03" y="984" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">2</text>
+  <text x="712.24" y="984" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">56</text>
+  <text x="819" y="984" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">76%</text>
+  <text x="984" y="984" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="end">40</text>
+  <rect x="305" y="1008" width="698" height="58" fill="#FAFCFE"/>
+  <line x1="324" y1="1008" x2="984" y2="1008" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Controle Interno e Prestação de...</text>
+  <text x="620.03" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="712.24" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">30</text>
+  <text x="819" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">83%</text>
+  <text x="984" y="1042" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="end">26</text>
+  <line x1="324" y1="1066" x2="984" y2="1066" stroke="#EDF1F6" stroke-width="1"/>
+  <text x="324" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Audiências Públicas e...</text>
+  <text x="620.03" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">1</text>
+  <text x="712.24" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">80</text>
+  <text x="819" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="middle">72%</text>
+  <text x="984" y="1100" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A" text-anchor="end">58</text>
+  <rect x="1024" y="444" width="380" height="330" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="1046" y="486" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Público atendido</text>
+  <path d="M1214 584 L1214 522 A62 62 0 1 1 1206.23 645.51 Z" fill="#1263A5"/>
+  <path d="M1214 584 L1206.23 645.51 A62 62 0 0 1 1153.95 568.58 Z" fill="#1B7A57"/>
+  <path d="M1214 584 L1153.95 568.58 A62 62 0 0 1 1214 522 Z" fill="#B8862B"/>
+  <circle cx="1214" cy="584" r="34" fill="#FFFFFF"/>
+  <text x="1214" y="584.3" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#122231" font-weight="700" text-anchor="middle">1.284</text>
+  <text x="1214" y="601.67" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#64778A" text-anchor="middle">inscrições</text>
+  <rect x="1048" y="676" width="12" height="12" rx="3" fill="#1263A5"/>
+  <text x="1068" y="687" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Servidores da CMR</text>
+  <text x="1380" y="687" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700" text-anchor="end">52%</text>
+  <rect x="1048" y="706" width="12" height="12" rx="3" fill="#1B7A57"/>
+  <text x="1068" y="717" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Servidores de outros órgãos</text>
+  <text x="1380" y="717" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700" text-anchor="end">27%</text>
+  <rect x="1048" y="736" width="12" height="12" rx="3" fill="#B8862B"/>
+  <text x="1068" y="747" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Público externo</text>
+  <text x="1380" y="747" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700" text-anchor="end">21%</text>
+  <rect x="1024" y="794" width="380" height="240" rx="10" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="1046" y="836" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Relatórios prontos</text>
+  <g transform="translate(1048,860) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#1263A5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1072" y="873" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Lista de presença por turma</text>
+  <g transform="translate(1364,860) scale(0.71)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#0D4E85" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(1048,902) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#1263A5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1072" y="915" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Inscritos por curso (CSV)</text>
+  <g transform="translate(1364,902) scale(0.71)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#0D4E85" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(1048,944) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#1263A5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1072" y="957" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Certificados emitidos no período</text>
+  <g transform="translate(1364,944) scale(0.71)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#0D4E85" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(1048,986) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#1263A5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1072" y="999" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Log de cancelamentos</text>
+  <g transform="translate(1364,986) scale(0.71)">
+  <path d="M12 3v12M7.5 11l4.5 4.5L16.5 11M4 20h16" fill="none" stroke="#0D4E85" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1168" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1168" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1204" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1208" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1236" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1223" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="388.25" y="1238.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 12</text>
+  <rect x="424.5" y="1223" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="452.75" y="1238.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 13</text>
+  <rect x="489" y="1223" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="517.25" y="1238.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 14</text>
+  <rect x="553.5" y="1223" width="56.5" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="581.75" y="1238.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 15</text>
+  <text x="120" y="1268" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1288" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Apoio à gestão: consolida inscrições, presença, certificados e cancelamentos, substituindo os controles manuais citados na contextualização do projeto.</text>
+  </g>
+</svg>

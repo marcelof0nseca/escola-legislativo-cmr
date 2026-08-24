@@ -1,0 +1,67 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="700" height="920" viewBox="0 0 700 920">
+  <title>02-cursos-e-eventos</title>
+  <defs>
+    <style>
+      .bg{fill:#f4f6f8}
+      .frame{fill:#fff;stroke:#c9d2dc;stroke-width:2}
+      .top{fill:#18324a}
+      .nav{fill:#eef3f7;stroke:#ccd6df}
+      .txt{font-family:Arial, Helvetica, sans-serif;fill:#243447}
+      .muted{fill:#607080}
+      .tiny{font-size:12px}
+      .small{font-size:14px}
+      .body{font-size:18px}
+      .h1{font-size:32px;font-weight:700}
+      .h2{font-size:24px;font-weight:700}
+      .h3{font-size:18px;font-weight:700}
+      .white{fill:#fff}
+      .primary{fill:#0b6bcb}
+      .success{fill:#16845b}
+      .warn{fill:#d79000}
+      .danger{fill:#c0392b}
+      .line{stroke:#8da0b3;stroke-width:2;fill:none}
+      .dash{stroke:#8da0b3;stroke-width:2;fill:none;stroke-dasharray:8 8}
+      .btn{fill:#0b6bcb;stroke:#084f96}
+      .btn2{fill:#fff;stroke:#0b6bcb}
+      .input{fill:#fff;stroke:#aab8c5}
+      .chip{fill:#e9f2ff;stroke:#9cc8f5}
+      .card{fill:#fff;stroke:#d6dee6;stroke-width:2}
+      .shadow{filter:url(#shadow)}
+      .hotspot{fill:#fff6d7;stroke:#d79000;stroke-width:2}
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#8da0b3"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="700" height="920"/>
+  <g id="frame-courses">
+    <rect class="frame shadow" width="700" height="920" rx="8"/>
+    <rect class="top" width="700" height="78" rx="8"/>
+    <text x="28" y="48" class="txt white h2">Cursos e eventos</text>
+    <g><rect x="592" y="22" width="82" height="34" rx="4" class="hotspot"/><text x="612" y="44" class="txt small">Home</text></g>
+    <text x="28" y="124" class="txt h2">Agenda</text>
+    <rect x="28" y="150" width="150" height="42" rx="5" class="input"/><text x="48" y="177" class="txt small muted">Mês</text>
+    <rect x="194" y="150" width="210" height="42" rx="5" class="input"/><text x="214" y="177" class="txt small muted">Tema</text>
+    <rect x="420" y="150" width="160" height="42" rx="5" class="input"/><text x="440" y="177" class="txt small muted">Público</text>
+    <rect x="592" y="150" width="80" height="42" rx="5" class="btn"/><text x="612" y="177" class="txt white small">Filtrar</text>
+    <rect x="28" y="220" width="644" height="96" rx="8" class="card"/>
+    <text x="48" y="254" class="txt h3">Processo Legislativo Municipal</text>
+    <text x="48" y="282" class="txt small muted">Direito • Público interno/externo • 30 vagas</text>
+    <g><rect x="526" y="246" width="118" height="38" rx="5" class="hotspot"/><text x="558" y="271" class="txt small">Detalhes</text></g>
+    <rect x="28" y="340" width="644" height="96" rx="8" class="card"/>
+    <text x="48" y="374" class="txt h3">Redação Oficial</text>
+    <text x="48" y="402" class="txt small muted">Comunicação • Servidores • vagas esgotadas</text>
+    <rect x="526" y="366" width="118" height="38" rx="5" class="btn2"/><text x="551" y="391" class="txt small">Lista espera</text>
+    <rect x="28" y="464" width="644" height="96" rx="8" class="card"/>
+    <text x="48" y="498" class="txt h3">Transparência e Controle Social</text>
+    <text x="48" y="526" class="txt small muted">Cidadania • Externo • inscrições em breve</text>
+    <rect x="526" y="490" width="118" height="38" rx="5" class="btn2"/><text x="558" y="515" class="txt small">Detalhes</text>
+    <text x="28" y="632" class="txt h2">Eventos concluídos</text>
+    <rect x="28" y="658" width="644" height="74" rx="8" class="nav"/>
+    <text x="48" y="690" class="txt h3">Seminário de Boas Práticas Legislativas</text>
+    <text x="48" y="715" class="txt small muted">Concluído • certificado disponível para inscritos</text>
+  </g>
+</svg>

@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1908" viewBox="0 0 1440 1908">
+  <title>10-escola-quem-somos</title>
+  <rect width="1440" height="1908" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="40" fill="#0E2C4B"/>
+  <text x="120" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" font-weight="700" letter-spacing="1.2">CÂMARA MUNICIPAL DO RECIFE</text>
+  <text x="1320" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Mapa do site</text>
+  <text x="1218.4" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Alto contraste</text>
+  <text x="1104.2" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Acessibilidade</text>
+  <rect x="0" y="40" width="1440" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="128" x2="1440" y2="128" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="62" width="46" height="46" rx="8" fill="#0E2C4B"/>
+  <g transform="translate(131,73) scale(1)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="180" y="80" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Escola do Legislativo</text>
+  <text x="180" y="99" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Câmara Municipal do Recife</text>
+  <text x="430" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Home</text>
+  <text x="487.4" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Cursos e Eventos</text>
+  <text x="633" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">A Escola</text>
+  <rect x="633" y="100" width="64.4" height="3" rx="2" fill="#B8862B"/>
+  <text x="725.4" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acervo</text>
+  <text x="797.5" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Notícias</text>
+  <text x="884.3" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Contato</text>
+  <rect x="1280" y="68" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1291,79) scale(0.75)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1120" y="68" width="148" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1194" y="92.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar / Cadastre-se</text>
+  <rect x="0" y="128" width="1440" height="176" fill="#0E2C4B"/>
+  <text x="120" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">Home</text>
+  <g transform="translate(151.25,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="167.25" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">A Escola</text>
+  <g transform="translate(224.75,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="240.75" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700">Quem Somos</text>
+  <text x="120" y="220" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Quem Somos</text>
+  <text x="120" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#B7C7D6">Missão, competências e composição da Escola do Legislativo</text>
+  <text x="120" y="348" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Quem Somos</text>
+  <rect x="120" y="360" width="86.25" height="3.5" rx="2" fill="#B8862B"/>
+  <text x="240.25" y="348" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">História</text>
+  <text x="337.25" y="348" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Legislação e Transparência</text>
+  <text x="576" y="348" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Escolas parceiras</text>
+  <line x1="120" y1="362" x2="1320" y2="362" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="406" width="762" height="300" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="152" y="458" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#122231" font-weight="700">A Escola do Legislativo</text>
+  <rect x="152" y="470" width="46" height="4" rx="2" fill="#B8862B"/>
+  <text x="152" y="510" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Criada pela Resolução nº 1.842/2024, a Escola do Legislativo da Câmara Municipal do</text>
+  <text x="152" y="534" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Recife é a unidade responsável pela formação e pelo aperfeiçoamento continuado dos</text>
+  <text x="152" y="558" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">servidores da Casa e pela aproximação entre o Poder Legislativo municipal e a sociedade.</text>
+  <text x="152" y="614" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Suas ações incluem cursos, seminários, oficinas e publicações, oferecidos a servidores,</text>
+  <text x="152" y="638" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">vereadores, agentes públicos de outros órgãos e ao cidadão interessado no processo</text>
+  <text x="152" y="662" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">legislativo.</text>
+  <rect x="120" y="730" width="238" height="190" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="144" y="754" width="42" height="42" rx="9" fill="#FAF1DD"/>
+  <g transform="translate(154.5,764.5) scale(0.88)">
+  <path d="M6 21V4M6 4h12l-2.5 4L18 12H6" fill="none" stroke="#B8862B" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="144" y="826" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Missão</text>
+  <text x="144" y="852" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Qualificar a atuação do</text>
+  <text x="144" y="871" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Legislativo municipal por</text>
+  <text x="144" y="890" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">meio da educação</text>
+  <text x="144" y="909" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">continuada.</text>
+  <rect x="382" y="730" width="238" height="190" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="406" y="754" width="42" height="42" rx="9" fill="#FAF1DD"/>
+  <g transform="translate(416.5,764.5) scale(0.88)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#B8862B" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="406" y="826" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Visão</text>
+  <text x="406" y="852" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Ser referência regional em</text>
+  <text x="406" y="871" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">capacitação e cidadania</text>
+  <text x="406" y="890" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">legislativa até 2030.</text>
+  <rect x="644" y="730" width="238" height="190" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="668" y="754" width="42" height="42" rx="9" fill="#FAF1DD"/>
+  <g transform="translate(678.5,764.5) scale(0.88)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#B8862B" stroke-width="2.06" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="668" y="826" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Valores</text>
+  <text x="668" y="852" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Transparência,</text>
+  <text x="668" y="871" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">impessoalidade,</text>
+  <text x="668" y="890" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">acessibilidade e melhoria</text>
+  <text x="668" y="909" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">contínua.</text>
+  <rect x="120" y="944" width="762" height="396" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="152" y="996" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#122231" font-weight="700">Composição da Escola</text>
+  <rect x="152" y="1008" width="46" height="4" rx="2" fill="#B8862B"/>
+  <rect x="152" y="1048" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="192" cy="1088" r="24" fill="#1E4D75"/>
+  <text x="192" y="1094.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">RF</text>
+  <text x="228" y="1084" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Ricardo Ferraz</text>
+  <text x="228" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Diretor Geral</text>
+  <rect x="501" y="1048" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="541" cy="1088" r="24" fill="#1E4D75"/>
+  <text x="541" y="1094.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">RB</text>
+  <text x="577" y="1084" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Robertson Barros</text>
+  <text x="577" y="1102" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Coordenador da Escola do</text>
+  <text x="577" y="1117" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Legislativo</text>
+  <rect x="152" y="1144" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="192" cy="1184" r="24" fill="#1E4D75"/>
+  <text x="192" y="1190.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">HV</text>
+  <text x="228" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Helena Vasconcelos</text>
+  <text x="228" y="1198" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Coordenação Pedagógica</text>
+  <rect x="501" y="1144" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="541" cy="1184" r="24" fill="#1E4D75"/>
+  <text x="541" y="1190.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">MA</text>
+  <text x="577" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Marcelo Andrade</text>
+  <text x="577" y="1198" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Secretaria Acadêmica</text>
+  <rect x="152" y="1240" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="192" cy="1280" r="24" fill="#1E4D75"/>
+  <text x="192" y="1286.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">CN</text>
+  <text x="228" y="1276" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Cláudia Nunes</text>
+  <text x="228" y="1294" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Comunicação e Acervo</text>
+  <rect x="501" y="1240" width="333" height="80" rx="10" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1"/>
+  <circle cx="541" cy="1280" r="24" fill="#1E4D75"/>
+  <text x="541" y="1286.05" font-family="Arial, Helvetica, sans-serif" font-size="17.28" fill="#FFFFFF" font-weight="700" text-anchor="middle">DF</text>
+  <text x="577" y="1276" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#122231" font-weight="700">Diego Farias</text>
+  <text x="577" y="1294" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Apoio de Tecnologia (DIVINF)</text>
+  <rect x="906" y="406" width="414" height="260" rx="12" fill="#0E2C4B"/>
+  <text x="932" y="458" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#FFFFFF" font-weight="700">A Escola em números</text>
+  <text x="932" y="506" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#B8862B" font-weight="700">128</text>
+  <text x="985.4" y="506" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">cursos realizados desde 2024</text>
+  <line x1="932" y1="522" x2="1294" y2="522" stroke="#27476A" stroke-width="1"/>
+  <text x="932" y="562" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#B8862B" font-weight="700">4.310</text>
+  <text x="1013" y="562" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">certificados emitidos</text>
+  <line x1="932" y1="578" x2="1294" y2="578" stroke="#27476A" stroke-width="1"/>
+  <text x="932" y="618" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#B8862B" font-weight="700">6</text>
+  <text x="957.8" y="618" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">instrumentos jurídicos vigentes</text>
+  <rect x="906" y="686" width="414" height="236" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="932" y="732" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Onde estamos</text>
+  <g transform="translate(932,756) scale(0.75)">
+  <path d="M12 21s7-6.3 7-11a7 7 0 1 0-14 0c0 4.7 7 11 7 11ZM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" fill="none" stroke="#1263A5" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="960" y="764" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Rua Princesa Isabel, 410 - 1º Andar</text>
+  <text x="960" y="782" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Boa Vista - Recife/PE</text>
+  <g transform="translate(932,812) scale(0.75)">
+  <path d="M6 3h4l1.6 4.2-2.2 1.6a12 12 0 0 0 5.8 5.8l1.6-2.2L21 14v4a2 2 0 0 1-2.2 2A17 17 0 0 1 4 5.2 2 2 0 0 1 6 3Z" fill="none" stroke="#1263A5" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="960" y="820" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">(81) 3355-4000</text>
+  <text x="960" y="838" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">ramal 4120</text>
+  <g transform="translate(932,868) scale(0.75)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#1263A5" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="960" y="876" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">escoladolegislativo@</text>
+  <text x="960" y="894" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">recife.pe.leg.br</text>
+  <rect x="906" y="942" width="414" height="200" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="932" y="988" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Documentos</text>
+  <g transform="translate(932,1010) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="958" y="1024" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#0D4E85">Resolução de criação nº 1.842/2024</text>
+  <g transform="translate(932,1052) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="958" y="1066" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#0D4E85">Regimento Interno da Escola</text>
+  <g transform="translate(932,1094) scale(0.71)">
+  <path d="M6 3h8l4 4v14H6zM14 3v4h4" fill="none" stroke="#A62B21" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="958" y="1108" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#0D4E85">Plano Anual de Capacitação 2026</text>
+  <rect x="0" y="1416" width="1440" height="330" fill="#0E2C4B"/>
+  <rect x="0" y="1416" width="1440" height="4" fill="#B8862B"/>
+  <text x="120" y="1478" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <rect x="120" y="1490" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="120" y="1522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Rua Princesa Isabel, 410 - 1o Andar</text>
+  <text x="120" y="1548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Boa Vista - Recife/PE - CEP 50050-330</text>
+  <text x="120" y="1574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">(81) 3355-4000 | ramal 4120</text>
+  <text x="120" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">escoladolegislativo@recife.pe.leg.br</text>
+  <text x="120" y="1626" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Atendimento: seg a sex, 8h as 17h</text>
+  <text x="390" y="1478" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Institucional</text>
+  <rect x="390" y="1490" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="390" y="1522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Quem Somos</text>
+  <text x="390" y="1548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">História e composição</text>
+  <text x="390" y="1574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Legislação e Transparência</text>
+  <text x="390" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Instrumentos jurídicos</text>
+  <text x="390" y="1626" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Escolas parceiras</text>
+  <text x="660" y="1478" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Serviços</text>
+  <rect x="660" y="1490" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="660" y="1522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Cursos e eventos</text>
+  <text x="660" y="1548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Área do Aluno</text>
+  <text x="660" y="1574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Validar certificado</text>
+  <text x="660" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Acervo / Biblioteca</text>
+  <text x="660" y="1626" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Notícias</text>
+  <text x="930" y="1478" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escolas parceiras</text>
+  <rect x="930" y="1490" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="930" y="1522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALMG - Minas Gerais</text>
+  <g transform="translate(1067.67,1510) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALEP - Paraná</text>
+  <g transform="translate(1026.72,1536) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Interlegis / ILB</text>
+  <g transform="translate(1047.2,1562) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ABEL - Associação Brasileira</text>
+  <g transform="translate(1129.1,1588) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1626" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Ver todas as parceiras</text>
+  <g transform="translate(1088.15,1614) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="120" y1="1680" x2="1320" y2="1680" stroke="#2A4A6B" stroke-width="1.2"/>
+  <text x="120" y="1712" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">© 2026 Câmara Municipal do Recife - Divisão de Informática</text>
+  <text x="1320" y="1712" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" text-anchor="end">Política de Privacidade  |  LGPD  |  Termos de uso</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1746" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1746" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1782" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1786" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1814" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1801" width="166.9" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="443.45" y="1816.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">A ESCOLA - Quem Somos</text>
+  <rect x="534.9" y="1801" width="160" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="614.9" y="1816.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">Composição da Escola</text>
+  <text x="120" y="1846" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1866" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Atende ao item 'composição da Escola' informado pelo usuário e à estrutura A ESCOLA &gt; Quem Somos definida na seção 2 do documento de requisitos.</text>
+  </g>
+</svg>

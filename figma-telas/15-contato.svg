@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1694" viewBox="0 0 1440 1694">
+  <title>15-contato</title>
+  <rect width="1440" height="1694" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="40" fill="#0E2C4B"/>
+  <text x="120" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" font-weight="700" letter-spacing="1.2">CÂMARA MUNICIPAL DO RECIFE</text>
+  <text x="1320" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Mapa do site</text>
+  <text x="1218.4" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Alto contraste</text>
+  <text x="1104.2" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Acessibilidade</text>
+  <rect x="0" y="40" width="1440" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="128" x2="1440" y2="128" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="62" width="46" height="46" rx="8" fill="#0E2C4B"/>
+  <g transform="translate(131,73) scale(1)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="180" y="80" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Escola do Legislativo</text>
+  <text x="180" y="99" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Câmara Municipal do Recife</text>
+  <text x="430" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Home</text>
+  <text x="487.4" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Cursos e Eventos</text>
+  <text x="633" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">A Escola</text>
+  <text x="719.8" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acervo</text>
+  <text x="791.9" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Notícias</text>
+  <text x="878.7" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Contato</text>
+  <rect x="878.7" y="100" width="56.35" height="3" rx="2" fill="#B8862B"/>
+  <rect x="1280" y="68" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1291,79) scale(0.75)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1120" y="68" width="148" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1194" y="92.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar / Cadastre-se</text>
+  <rect x="0" y="128" width="1440" height="176" fill="#0E2C4B"/>
+  <text x="120" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">Home</text>
+  <g transform="translate(151.25,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="167.25" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700">Contato</text>
+  <text x="120" y="220" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Contato</text>
+  <text x="120" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#B7C7D6">Fale com a equipe da Escola do Legislativo da Câmara Municipal do Recife</text>
+  <rect x="120" y="352" width="700" height="596" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="152" y="406" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#122231" font-weight="700">Envie uma mensagem</text>
+  <text x="152" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A">Respondemos em até 2 dias úteis pelo e-mail informado.</text>
+  <text x="152" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Nome completo</text>
+  <text x="254.18" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="152" y="482" width="308" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="166" y="510" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#95A5B4">Digite aqui</text>
+  <text x="480" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">E-mail</text>
+  <text x="529.85" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="480" y="482" width="308" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(493,496) scale(0.75)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="520" y="510" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#95A5B4">Digite aqui</text>
+  <text x="152" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Telefone / WhatsApp</text>
+  <rect x="152" y="570" width="308" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(165,584) scale(0.75)">
+  <path d="M6 3h4l1.6 4.2-2.2 1.6a12 12 0 0 0 5.8 5.8l1.6-2.2L21 14v4a2 2 0 0 1-2.2 2A17 17 0 0 1 4 5.2 2 2 0 0 1 6 3Z" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="192" y="598" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#95A5B4">Digite aqui</text>
+  <text x="480" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Assunto</text>
+  <text x="537.33" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="480" y="570" width="308" height="46" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="494" y="598" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">Selecione o assunto</text>
+  <g transform="translate(756,584) scale(0.75)">
+  <path d="M6 9.5 12 15.5 18 9.5" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="152" y="640" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Mensagem</text>
+  <text x="216.8" y="640" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="152" y="646" width="636" height="160" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <text x="166" y="670" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#95A5B4">Digite aqui</text>
+  <rect x="152" y="830" width="18" height="18" rx="4" fill="#1263A5" stroke="#1263A5" stroke-width="1.5"/>
+  <path d="M156 839.36 l3.6 4.32 l6.84 -7.56" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="842.96" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Li e concordo com o tratamento dos meus dados para resposta a este contato.</text>
+  <text x="180" y="864" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">Base legal: LGPD, art. 7º, inciso IX. Os dados não são usados para outra finalidade.</text>
+  <rect x="152" y="892" width="200" height="50" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(174.31,908) scale(0.75)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="200.31" y="922.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Enviar mensagem</text>
+  <rect x="860" y="352" width="460" height="300" rx="12" fill="#0E2C4B"/>
+  <text x="888" y="404" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <rect x="888" y="416" width="40" height="3" rx="2" fill="#B8862B"/>
+  <g transform="translate(888,452) scale(0.79)">
+  <path d="M12 21s7-6.3 7-11a7 7 0 1 0-14 0c0 4.7 7 11 7 11ZM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" fill="none" stroke="#B8862B" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="918" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Rua Princesa Isabel, 410 - 1º Andar</text>
+  <text x="918" y="486" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB">Boa Vista - Recife/PE - CEP 50050-330</text>
+  <g transform="translate(888,518) scale(0.79)">
+  <path d="M6 3h4l1.6 4.2-2.2 1.6a12 12 0 0 0 5.8 5.8l1.6-2.2L21 14v4a2 2 0 0 1-2.2 2A17 17 0 0 1 4 5.2 2 2 0 0 1 6 3Z" fill="none" stroke="#B8862B" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="918" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">(81) 3355-4000 · ramal 4120</text>
+  <text x="918" y="552" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB">Segunda a sexta, 8h às 17h</text>
+  <g transform="translate(888,584) scale(0.79)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#B8862B" stroke-width="2.15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="918" y="596" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">escoladolegislativo@recife.pe.leg.br</text>
+  <text x="918" y="618" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB">Atendimento por e-mail</text>
+  <rect x="860" y="672" width="460" height="240" rx="12" fill="#DAE0EC"/>
+  <g transform="translate(1073,767) scale(1.42)">
+  <path d="M12 21s7-6.3 7-11a7 7 0 1 0-14 0c0 4.7 7 11 7 11ZM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" fill="none" stroke="#FFFFFF" stroke-width="1.41" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1090" y="820.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">MAPA DE LOCALIZAÇÃO</text>
+  <rect x="860" y="932" width="460" height="194" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="888" y="978" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Dúvidas frequentes</text>
+  <g transform="translate(888,994) scale(0.62)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#B8862B" stroke-width="3.04" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="910" y="1008" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0D4E85">Como emito a 2ª via do certificado?</text>
+  <g transform="translate(888,1034) scale(0.62)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#B8862B" stroke-width="3.04" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="910" y="1048" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0D4E85">Posso me inscrever sendo de fora da Câmara?</text>
+  <g transform="translate(888,1074) scale(0.62)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#B8862B" stroke-width="3.04" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="910" y="1088" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0D4E85">Como funciona a lista de espera?</text>
+  <rect x="0" y="1202" width="1440" height="330" fill="#0E2C4B"/>
+  <rect x="0" y="1202" width="1440" height="4" fill="#B8862B"/>
+  <text x="120" y="1264" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <rect x="120" y="1276" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="120" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Rua Princesa Isabel, 410 - 1o Andar</text>
+  <text x="120" y="1334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Boa Vista - Recife/PE - CEP 50050-330</text>
+  <text x="120" y="1360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">(81) 3355-4000 | ramal 4120</text>
+  <text x="120" y="1386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">escoladolegislativo@recife.pe.leg.br</text>
+  <text x="120" y="1412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Atendimento: seg a sex, 8h as 17h</text>
+  <text x="390" y="1264" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Institucional</text>
+  <rect x="390" y="1276" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="390" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Quem Somos</text>
+  <text x="390" y="1334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">História e composição</text>
+  <text x="390" y="1360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Legislação e Transparência</text>
+  <text x="390" y="1386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Instrumentos jurídicos</text>
+  <text x="390" y="1412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Escolas parceiras</text>
+  <text x="660" y="1264" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Serviços</text>
+  <rect x="660" y="1276" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="660" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Cursos e eventos</text>
+  <text x="660" y="1334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Área do Aluno</text>
+  <text x="660" y="1360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Validar certificado</text>
+  <text x="660" y="1386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Acervo / Biblioteca</text>
+  <text x="660" y="1412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Notícias</text>
+  <text x="930" y="1264" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escolas parceiras</text>
+  <rect x="930" y="1276" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="930" y="1308" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALMG - Minas Gerais</text>
+  <g transform="translate(1067.67,1296) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALEP - Paraná</text>
+  <g transform="translate(1026.72,1322) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Interlegis / ILB</text>
+  <g transform="translate(1047.2,1348) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ABEL - Associação Brasileira</text>
+  <g transform="translate(1129.1,1374) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Ver todas as parceiras</text>
+  <g transform="translate(1088.15,1400) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="120" y1="1466" x2="1320" y2="1466" stroke="#2A4A6B" stroke-width="1.2"/>
+  <text x="120" y="1498" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">© 2026 Câmara Municipal do Recife - Divisão de Informática</text>
+  <text x="1320" y="1498" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" text-anchor="end">Política de Privacidade  |  LGPD  |  Termos de uso</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1532" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="1532" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1568" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1572" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1587" width="70.3" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="395.15" y="1602.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">CONTATO</text>
+  <text x="120" y="1632" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1652" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Seção CONTATO da estrutura do portal: e-mail, endereço e telefone, com formulário de mensagem e consentimento LGPD.</text>
+  </g>
+</svg>

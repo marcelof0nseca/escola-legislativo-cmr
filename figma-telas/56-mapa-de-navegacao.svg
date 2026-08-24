@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1830" viewBox="0 0 2000 1830">
+  <title>56-mapa-de-navegacao</title>
+  <rect width="2000" height="1830" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="2000" height="200" fill="#0E2C4B"/>
+  <rect x="0" y="0" width="2000" height="4" fill="#B8862B"/>
+  <rect x="80" y="44" width="52" height="52" rx="9" fill="#1E4D75"/>
+  <g transform="translate(93,57) scale(1.08)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="146" y="66" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF" font-weight="700">Portal da Escola do Legislativo</text>
+  <text x="146" y="90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Câmara Municipal do Recife · Divisão de Informática · processo nº 3096/2025</text>
+  <text x="80" y="146" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#FFFFFF" font-weight="700">Mapa de navegação do protótipo</text>
+  <text x="80" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#B7C7D6">57 frames · 129 ligações previstas no modo Prototype do Figma</text>
+  <text x="1470" y="150" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#B8862B" font-weight="700">57</text>
+  <text x="1470" y="176" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#8FA6BA">frames</text>
+  <text x="1620" y="150" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#B8862B" font-weight="700">17</text>
+  <text x="1620" y="176" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#8FA6BA">requisitos funcionais</text>
+  <text x="1770" y="150" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#B8862B" font-weight="700">14</text>
+  <text x="1770" y="176" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#8FA6BA">decisões</text>
+  <text x="80" y="240" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#122231" font-weight="700">Fluxo principal do aluno</text>
+  <rect x="80" y="250" width="40" height="3.5" rx="2" fill="#B8862B"/>
+  <rect x="80" y="280" width="190" height="74" rx="8" fill="#E8F1F9" stroke="#1263A5" stroke-width="1.4"/>
+  <rect x="80" y="280" width="34" height="74" rx="8" fill="#1263A5"/>
+  <rect x="104" y="280" width="10" height="74" fill="#1263A5"/>
+  <text x="97" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">01</text>
+  <text x="126" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Home do portal</text>
+  <line x1="276" y1="317" x2="302" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M304 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="312" y="280" width="190" height="74" rx="8" fill="#E8F1F9" stroke="#1263A5" stroke-width="1.4"/>
+  <rect x="312" y="280" width="34" height="74" rx="8" fill="#1263A5"/>
+  <rect x="336" y="280" width="10" height="74" fill="#1263A5"/>
+  <text x="329" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">02</text>
+  <text x="358" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Vitrine de cursos</text>
+  <text x="358" y="322" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">e eventos</text>
+  <line x1="508" y1="317" x2="534" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M536 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="544" y="280" width="190" height="74" rx="8" fill="#E8F1F9" stroke="#1263A5" stroke-width="1.4"/>
+  <rect x="544" y="280" width="34" height="74" rx="8" fill="#1263A5"/>
+  <rect x="568" y="280" width="10" height="74" fill="#1263A5"/>
+  <text x="561" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">05</text>
+  <text x="590" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Detalhe do curso -</text>
+  <text x="590" y="322" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Ementa</text>
+  <line x1="740" y1="317" x2="766" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M768 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="776" y="280" width="190" height="74" rx="8" fill="#FAF1DD" stroke="#B8862B" stroke-width="1.4"/>
+  <rect x="776" y="280" width="34" height="74" rx="8" fill="#B8862B"/>
+  <rect x="800" y="280" width="10" height="74" fill="#B8862B"/>
+  <text x="793" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">22</text>
+  <text x="822" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Login</text>
+  <line x1="972" y1="317" x2="998" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M1000 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="1008" y="280" width="190" height="74" rx="8" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1.4"/>
+  <rect x="1008" y="280" width="34" height="74" rx="8" fill="#1B7A57"/>
+  <rect x="1032" y="280" width="10" height="74" fill="#1B7A57"/>
+  <text x="1025" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">30</text>
+  <text x="1054" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Inscrição -</text>
+  <text x="1054" y="322" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">escolher turma</text>
+  <line x1="1204" y1="317" x2="1230" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M1232 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="1240" y="280" width="190" height="74" rx="8" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1.4"/>
+  <rect x="1240" y="280" width="34" height="74" rx="8" fill="#1B7A57"/>
+  <rect x="1264" y="280" width="10" height="74" fill="#1B7A57"/>
+  <text x="1257" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">32</text>
+  <text x="1286" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Inscrição</text>
+  <text x="1286" y="322" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">confirmada</text>
+  <line x1="1436" y1="317" x2="1462" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M1464 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="1472" y="280" width="190" height="74" rx="8" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1.4"/>
+  <rect x="1472" y="280" width="34" height="74" rx="8" fill="#1B7A57"/>
+  <rect x="1496" y="280" width="10" height="74" fill="#1B7A57"/>
+  <text x="1489" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">34</text>
+  <text x="1518" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Meus cursos</text>
+  <line x1="1668" y1="317" x2="1694" y2="317" stroke="#8DA0B3" stroke-width="2"/>
+  <path d="M1696 317 l-8 -5 l0 10 Z" fill="#8DA0B3"/>
+  <rect x="1704" y="280" width="190" height="74" rx="8" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1.4"/>
+  <rect x="1704" y="280" width="34" height="74" rx="8" fill="#1B7A57"/>
+  <rect x="1728" y="280" width="10" height="74" fill="#1B7A57"/>
+  <text x="1721" y="322.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">37</text>
+  <text x="1750" y="306" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Meus certificados</text>
+  <line x1="80" y1="386" x2="1920" y2="386" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="410" width="296" height="62" rx="8" fill="#1263A5"/>
+  <text x="98" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">MÓDULO PÚBLICO</text>
+  <text x="98" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">Acesso livre, sem login</text>
+  <rect x="80" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="486" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="500" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">01</text>
+  <text x="134" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Home do portal</text>
+  <text x="134" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 1, RF 3, RF 4</text>
+  <rect x="80" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="542" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="556" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">02</text>
+  <text x="134" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Vitrine de cursos e eventos</text>
+  <text x="134" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 1</text>
+  <rect x="80" y="598" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="598" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="612" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="627.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">03</text>
+  <text x="134" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Vitrine com filtros aplicados</text>
+  <text x="134" y="637" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 1</text>
+  <rect x="80" y="654" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="654" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="668" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="683.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">04</text>
+  <text x="134" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cursos e eventos realizados</text>
+  <text x="134" y="693" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 1</text>
+  <rect x="80" y="710" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="710" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="724" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="739.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">05</text>
+  <text x="134" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Detalhe do curso - Ementa</text>
+  <text x="134" y="749" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 2</text>
+  <rect x="80" y="766" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="766" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="780" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="795.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">06</text>
+  <text x="134" y="788" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Detalhe do curso - Professor</text>
+  <text x="134" y="805" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 2, RF 16</text>
+  <rect x="80" y="822" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="822" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="836" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="851.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">07</text>
+  <text x="134" y="844" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Detalhe - Cronograma e turmas</text>
+  <text x="134" y="861" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 2, RF 13</text>
+  <rect x="80" y="878" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="878" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="892" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="907.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">08</text>
+  <text x="134" y="900" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Notícias</text>
+  <text x="134" y="917" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 3</text>
+  <rect x="80" y="934" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="934" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="948" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="963.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">09</text>
+  <text x="134" y="956" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Notícia aberta</text>
+  <text x="134" y="973" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 3</text>
+  <rect x="80" y="990" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="990" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1004" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1019.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">10</text>
+  <text x="134" y="1012" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">A Escola - Quem Somos</text>
+  <text x="134" y="1029" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1046" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1046" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1060" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1075.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">11</text>
+  <text x="134" y="1068" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">A Escola - História</text>
+  <text x="134" y="1085" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1102" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1102" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1116" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1131.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">12</text>
+  <text x="134" y="1124" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Legislação e Transparência</text>
+  <text x="134" y="1141" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1158" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1158" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1172" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1187.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">13</text>
+  <text x="134" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Escolas parceiras</text>
+  <text x="134" y="1197" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1214" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1214" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1228" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1243.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">14</text>
+  <text x="134" y="1236" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Acervo / Biblioteca</text>
+  <text x="134" y="1253" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1270" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1270" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1284" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1299.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">15</text>
+  <text x="134" y="1292" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Contato</text>
+  <text x="134" y="1309" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="80" y="1326" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1326" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1340" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1355.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">16</text>
+  <text x="134" y="1348" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Resultados da busca</text>
+  <text x="134" y="1365" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Busca rápida</text>
+  <rect x="80" y="1382" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1382" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1396" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1411.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">17</text>
+  <text x="134" y="1404" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Validar certificado</text>
+  <text x="134" y="1421" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4</text>
+  <rect x="80" y="1438" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1438" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1452" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1467.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">18</text>
+  <text x="134" y="1460" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Certificado válido (Cenário B)</text>
+  <text x="134" y="1477" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4</text>
+  <rect x="80" y="1494" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1494" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1508" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1523.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">19</text>
+  <text x="134" y="1516" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Certificado inválido (Cenário...</text>
+  <text x="134" y="1533" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4</text>
+  <rect x="80" y="1550" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1550" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1564" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1579.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">20</text>
+  <text x="134" y="1572" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">PDF do certificado - Opção 1</text>
+  <text x="134" y="1589" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4</text>
+  <rect x="80" y="1606" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1606" width="4" height="50" rx="2" fill="#1263A5"/>
+  <rect x="94" y="1620" width="30" height="22" rx="4" fill="#E8F1F9"/>
+  <text x="109" y="1635.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1263A5" font-weight="700" text-anchor="middle">21</text>
+  <text x="134" y="1628" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">PDF do certificado - Opção 2</text>
+  <text x="134" y="1645" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4</text>
+  <rect x="404" y="410" width="296" height="62" rx="8" fill="#B8862B"/>
+  <text x="422" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">AUTENTICAÇÃO</text>
+  <text x="422" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">RF 5 e RF 6</text>
+  <rect x="404" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="486" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="500" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">22</text>
+  <text x="458" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Login</text>
+  <text x="458" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5</text>
+  <rect x="404" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="542" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="556" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">23</text>
+  <text x="458" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Login com erro e bloqueio</text>
+  <text x="458" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5</text>
+  <rect x="404" y="598" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="598" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="612" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="627.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">24</text>
+  <text x="458" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cadastro do aluno</text>
+  <text x="458" y="637" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 6</text>
+  <rect x="404" y="654" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="654" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="668" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="683.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">25</text>
+  <text x="458" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cadastro concluído</text>
+  <text x="458" y="693" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5, RF 6</text>
+  <rect x="404" y="710" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="710" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="724" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="739.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">26</text>
+  <text x="458" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Esqueci minha senha</text>
+  <text x="458" y="749" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5</text>
+  <rect x="404" y="766" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="766" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="780" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="795.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">27</text>
+  <text x="458" y="788" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Link de recuperação enviado</text>
+  <text x="458" y="805" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5</text>
+  <rect x="404" y="822" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="404" y="822" width="4" height="50" rx="2" fill="#B8862B"/>
+  <rect x="418" y="836" width="30" height="22" rx="4" fill="#FAF1DD"/>
+  <text x="433" y="851.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8862B" font-weight="700" text-anchor="middle">28</text>
+  <text x="458" y="844" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Criar nova senha</text>
+  <text x="458" y="861" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 5</text>
+  <rect x="728" y="410" width="296" height="62" rx="8" fill="#1B7A57"/>
+  <text x="746" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">ÁREA DO ALUNO</text>
+  <text x="746" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">RF 7, RF 8 e RF 9</text>
+  <rect x="728" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="486" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="500" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">29</text>
+  <text x="782" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Painel do aluno</text>
+  <text x="782" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="728" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="542" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="556" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">30</text>
+  <text x="782" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Inscrição - escolher turma</text>
+  <text x="782" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 7</text>
+  <rect x="728" y="598" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="598" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="612" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="627.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">31</text>
+  <text x="782" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Inscrição - turma esgotada</text>
+  <text x="782" y="637" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 7, RF 8</text>
+  <rect x="728" y="654" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="654" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="668" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="683.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">32</text>
+  <text x="782" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Inscrição confirmada</text>
+  <text x="782" y="693" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 7</text>
+  <rect x="728" y="710" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="710" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="724" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="739.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">33</text>
+  <text x="782" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Entrou na lista de espera</text>
+  <text x="782" y="749" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 8</text>
+  <rect x="728" y="766" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="766" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="780" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="795.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">34</text>
+  <text x="782" y="788" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Meus cursos</text>
+  <text x="782" y="805" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 7, RF 8, RF 9</text>
+  <rect x="728" y="822" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="822" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="836" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="851.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">35</text>
+  <text x="782" y="844" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cancelar inscrição (aluno)</text>
+  <text x="782" y="861" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 9</text>
+  <rect x="728" y="878" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="878" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="892" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="907.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">36</text>
+  <text x="782" y="900" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Sala do curso e materiais</text>
+  <text x="782" y="917" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 2, RF 14</text>
+  <rect x="728" y="934" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="934" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="948" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="963.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">37</text>
+  <text x="782" y="956" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Meus certificados</text>
+  <text x="782" y="973" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4, RF 15</text>
+  <rect x="728" y="990" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="728" y="990" width="4" height="50" rx="2" fill="#1B7A57"/>
+  <rect x="742" y="1004" width="30" height="22" rx="4" fill="#E3F3EC"/>
+  <text x="757" y="1019.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700" text-anchor="middle">38</text>
+  <text x="782" y="1012" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Atualizar meus dados</text>
+  <text x="782" y="1029" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 6</text>
+  <rect x="1052" y="410" width="296" height="62" rx="8" fill="#5A4A96"/>
+  <text x="1070" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">ÁREA DO GESTOR</text>
+  <text x="1070" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">RF 10 a RF 17</text>
+  <rect x="1052" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="486" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="500" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">39</text>
+  <text x="1106" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Painel do gestor</text>
+  <text x="1106" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 10-17</text>
+  <rect x="1052" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="542" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="556" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">40</text>
+  <text x="1106" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Gestão de cursos</text>
+  <text x="1106" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 12</text>
+  <rect x="1052" y="598" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="598" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="612" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="627.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">41</text>
+  <text x="1106" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cadastro de curso</text>
+  <text x="1106" y="637" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 12</text>
+  <rect x="1052" y="654" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="654" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="668" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="683.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">42</text>
+  <text x="1106" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Gestão de turmas</text>
+  <text x="1106" y="693" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 13</text>
+  <rect x="1052" y="710" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="710" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="724" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="739.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">43</text>
+  <text x="1106" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Gestão de inscrições</text>
+  <text x="1106" y="749" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 11, RF 13</text>
+  <rect x="1052" y="766" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="766" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="780" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="795.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">44</text>
+  <text x="1106" y="788" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Cancelar inscrição + log</text>
+  <text x="1106" y="805" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 11</text>
+  <rect x="1052" y="822" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="822" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="836" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="851.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">45</text>
+  <text x="1106" y="844" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Gestão da fila de espera</text>
+  <text x="1106" y="861" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 8, RF 10</text>
+  <rect x="1052" y="878" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="878" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="892" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="907.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">46</text>
+  <text x="1106" y="900" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Controle de frequência</text>
+  <text x="1106" y="917" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 14</text>
+  <rect x="1052" y="934" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="934" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="948" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="963.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">47</text>
+  <text x="1106" y="956" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Emissão de certificados</text>
+  <text x="1106" y="973" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 4, RF 15</text>
+  <rect x="1052" y="990" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="990" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="1004" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="1019.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">48</text>
+  <text x="1106" y="1012" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Gestão de professores</text>
+  <text x="1106" y="1029" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 16</text>
+  <rect x="1052" y="1046" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="1046" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="1060" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="1075.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">49</text>
+  <text x="1106" y="1068" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Conteúdo - Notícias</text>
+  <text x="1106" y="1085" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 3, RF 17</text>
+  <rect x="1052" y="1102" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="1102" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="1116" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="1131.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">50</text>
+  <text x="1106" y="1124" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Conteúdo - Acervo</text>
+  <text x="1106" y="1141" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 17</text>
+  <rect x="1052" y="1158" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="1158" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="1172" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="1187.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">51</text>
+  <text x="1106" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Conteúdo - Parceiras e páginas</text>
+  <text x="1106" y="1197" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 17</text>
+  <rect x="1052" y="1214" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1052" y="1214" width="4" height="50" rx="2" fill="#5A4A96"/>
+  <rect x="1066" y="1228" width="30" height="22" rx="4" fill="#EDEAF7"/>
+  <text x="1081" y="1243.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5A4A96" font-weight="700" text-anchor="middle">52</text>
+  <text x="1106" y="1236" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Relatórios e indicadores</text>
+  <text x="1106" y="1253" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">RF 12-15</text>
+  <rect x="1376" y="410" width="296" height="62" rx="8" fill="#1D6F73"/>
+  <text x="1394" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">ÁREA DO PROFESSOR</text>
+  <text x="1394" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">Acesso restrito</text>
+  <rect x="1376" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1376" y="486" width="4" height="50" rx="2" fill="#1D6F73"/>
+  <rect x="1390" y="500" width="30" height="22" rx="4" fill="#DFEFF0"/>
+  <text x="1405" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1D6F73" font-weight="700" text-anchor="middle">53</text>
+  <text x="1430" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Painel do professor</text>
+  <text x="1430" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="1376" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1376" y="542" width="4" height="50" rx="2" fill="#1D6F73"/>
+  <rect x="1390" y="556" width="30" height="22" rx="4" fill="#DFEFF0"/>
+  <text x="1405" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1D6F73" font-weight="700" text-anchor="middle">54</text>
+  <text x="1430" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Alunos inscritos</text>
+  <text x="1430" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="1376" y="598" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1376" y="598" width="4" height="50" rx="2" fill="#1D6F73"/>
+  <rect x="1390" y="612" width="30" height="22" rx="4" fill="#DFEFF0"/>
+  <text x="1405" y="627.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1D6F73" font-weight="700" text-anchor="middle">55</text>
+  <text x="1430" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Materiais do curso</text>
+  <text x="1430" y="637" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">Estrutura</text>
+  <rect x="1700" y="410" width="296" height="62" rx="8" fill="#64778A"/>
+  <text x="1718" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="700">APOIO À REUNIÃO</text>
+  <text x="1718" y="460" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.8">Não faz parte do sistema</text>
+  <rect x="1700" y="486" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1700" y="486" width="4" height="50" rx="2" fill="#64778A"/>
+  <rect x="1714" y="500" width="30" height="22" rx="4" fill="#EDF1F5"/>
+  <text x="1729" y="515.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700" text-anchor="middle">56</text>
+  <text x="1754" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Mapa de navegação</text>
+  <text x="1754" y="525" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">-</text>
+  <rect x="1700" y="542" width="296" height="50" rx="6" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="1700" y="542" width="4" height="50" rx="2" fill="#64778A"/>
+  <rect x="1714" y="556" width="30" height="22" rx="4" fill="#EDF1F5"/>
+  <text x="1729" y="571.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" font-weight="700" text-anchor="middle">57</text>
+  <text x="1754" y="564" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#122231" font-weight="700">Decisões em reunião</text>
+  <text x="1754" y="581" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#64778A">-</text>
+  <line x1="380" y1="441" x2="394" y2="441" stroke="#B8862B" stroke-width="2.4"/>
+  <path d="M398 441 l-9 -6 l0 12 Z" fill="#B8862B"/>
+  <line x1="704" y1="441" x2="718" y2="441" stroke="#B8862B" stroke-width="2.4"/>
+  <path d="M722 441 l-9 -6 l0 12 Z" fill="#B8862B"/>
+  <line x1="1352" y1="441" x2="1366" y2="441" stroke="#B8862B" stroke-width="2.4"/>
+  <path d="M1370 441 l-9 -6 l0 12 Z" fill="#B8862B"/>
+  <text x="80" y="1696" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Como ligar no Figma:</text>
+  <text x="238" y="1696" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">selecione o botão ou a área clicável → aba Prototype → arraste a setinha até o frame de destino → On click / Navigate to / Instant.</text>
+  <text x="80" y="1724" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#95A5B4">As setas deste mapa são apenas indicação visual do fluxo; quem redireciona é a ligação criada no painel Prototype.</text>
+  <line x1="80" y1="1758" x2="1920" y2="1758" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="80" y="1780" width="14" height="14" rx="3" fill="#1263A5"/>
+  <text x="102" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">MÓDULO PÚBLICO</text>
+  <rect x="228.2" y="1780" width="14" height="14" rx="3" fill="#B8862B"/>
+  <text x="250.2" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">AUTENTICAÇÃO</text>
+  <rect x="363.8" y="1780" width="14" height="14" rx="3" fill="#1B7A57"/>
+  <text x="385.8" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">ÁREA DO ALUNO</text>
+  <rect x="505.7" y="1780" width="14" height="14" rx="3" fill="#5A4A96"/>
+  <text x="527.7" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">ÁREA DO GESTOR</text>
+  <rect x="653.9" y="1780" width="14" height="14" rx="3" fill="#1D6F73"/>
+  <text x="675.9" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">ÁREA DO PROFESSOR</text>
+  <rect x="821" y="1780" width="14" height="14" rx="3" fill="#64778A"/>
+  <text x="843" y="1792" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A3B4A">APOIO À REUNIÃO</text>
+</svg>

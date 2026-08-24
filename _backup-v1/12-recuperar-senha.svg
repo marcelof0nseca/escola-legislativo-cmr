@@ -1,0 +1,50 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="700" height="190" viewBox="0 0 700 190">
+  <title>12-recuperar-senha</title>
+  <defs>
+    <style>
+      .bg{fill:#f4f6f8}
+      .frame{fill:#fff;stroke:#c9d2dc;stroke-width:2}
+      .top{fill:#18324a}
+      .nav{fill:#eef3f7;stroke:#ccd6df}
+      .txt{font-family:Arial, Helvetica, sans-serif;fill:#243447}
+      .muted{fill:#607080}
+      .tiny{font-size:12px}
+      .small{font-size:14px}
+      .body{font-size:18px}
+      .h1{font-size:32px;font-weight:700}
+      .h2{font-size:24px;font-weight:700}
+      .h3{font-size:18px;font-weight:700}
+      .white{fill:#fff}
+      .primary{fill:#0b6bcb}
+      .success{fill:#16845b}
+      .warn{fill:#d79000}
+      .danger{fill:#c0392b}
+      .line{stroke:#8da0b3;stroke-width:2;fill:none}
+      .dash{stroke:#8da0b3;stroke-width:2;fill:none;stroke-dasharray:8 8}
+      .btn{fill:#0b6bcb;stroke:#084f96}
+      .btn2{fill:#fff;stroke:#0b6bcb}
+      .input{fill:#fff;stroke:#aab8c5}
+      .chip{fill:#e9f2ff;stroke:#9cc8f5}
+      .card{fill:#fff;stroke:#d6dee6;stroke-width:2}
+      .shadow{filter:url(#shadow)}
+      .hotspot{fill:#fff6d7;stroke:#d79000;stroke-width:2}
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity=".12"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#8da0b3"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="700" height="190"/>
+  <g id="frame-password">
+    <rect class="frame shadow" width="700" height="190" rx="8"/>
+    <rect class="top" width="700" height="58" rx="8"/>
+    <text x="28" y="38" class="txt white h2">Recuperar senha</text>
+    <rect x="28" y="84" width="402" height="44" rx="5" class="input"/>
+    <text x="46" y="112" class="txt small muted">CPF ou e-mail cadastrado</text>
+    <g><rect x="452" y="84" width="220" height="44" rx="5" class="hotspot"/><text x="502" y="112" class="txt h3">Enviar link</text></g>
+    <text x="28" y="154" class="txt small muted">Após envio: usuário recebe link temporário,</text>
+    <text x="28" y="174" class="txt small muted">cria nova senha e volta ao login.</text>
+  </g>
+</svg>

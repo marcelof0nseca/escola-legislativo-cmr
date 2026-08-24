@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2007" viewBox="0 0 1440 2007">
+  <title>05-curso-detalhe-ementa</title>
+  <rect width="1440" height="2007" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="40" fill="#0E2C4B"/>
+  <text x="120" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" font-weight="700" letter-spacing="1.2">CÂMARA MUNICIPAL DO RECIFE</text>
+  <text x="1320" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Mapa do site</text>
+  <text x="1218.4" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Alto contraste</text>
+  <text x="1104.2" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Acessibilidade</text>
+  <rect x="0" y="40" width="1440" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="128" x2="1440" y2="128" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="62" width="46" height="46" rx="8" fill="#0E2C4B"/>
+  <g transform="translate(131,73) scale(1)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="180" y="80" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Escola do Legislativo</text>
+  <text x="180" y="99" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Câmara Municipal do Recife</text>
+  <text x="430" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Home</text>
+  <text x="487.4" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Cursos e Eventos</text>
+  <rect x="487.4" y="100" width="128.8" height="3" rx="2" fill="#B8862B"/>
+  <text x="644.2" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">A Escola</text>
+  <text x="731" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acervo</text>
+  <text x="803.1" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Notícias</text>
+  <text x="889.9" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Contato</text>
+  <rect x="1280" y="68" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1291,79) scale(0.75)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1120" y="68" width="148" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1194" y="92.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar / Cadastre-se</text>
+  <rect x="0" y="128" width="1440" height="300" fill="#0E2C4B"/>
+  <rect x="900" y="168" width="420" height="220" rx="10" fill="#1E4D75"/>
+  <g transform="translate(1093,253) scale(1.42)">
+  <path d="M3 5h18v14H3zM3 16l5-5 4 4 3-3 6 6" fill="none" stroke="#FFFFFF" stroke-width="1.41" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1110" y="306.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">IMAGEM DE CAPA DO CURSO</text>
+  <text x="120" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">Home</text>
+  <g transform="translate(151.25,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="167.25" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">Cursos e Eventos</text>
+  <g transform="translate(277.25,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="293.25" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700">Processo Legislativo Municipal</text>
+  <rect x="120" y="194" width="162.2" height="26" rx="13" fill="#E3F3EC" stroke="#1B7A57" stroke-width="1"/>
+  <circle cx="136" cy="207" r="3.5" fill="#1B7A57"/>
+  <text x="146" y="211.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1B7A57" font-weight="700">Inscrições abertas</text>
+  <rect x="290.2" y="194" width="79.4" height="26" rx="13" fill="#1263A5" stroke="#1263A5" stroke-width="1"/>
+  <circle cx="306.2" cy="207" r="3.5" fill="#FFFFFF"/>
+  <text x="316.2" y="211.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">Online</text>
+  <rect x="377.6" y="194" width="176" height="26" rx="13" fill="#0E2C4B" stroke="#0E2C4B" stroke-width="1"/>
+  <circle cx="393.6" cy="207" r="3.5" fill="#FFFFFF"/>
+  <text x="403.6" y="211.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">Processo Legislativo</text>
+  <text x="120" y="264" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#FFFFFF" font-weight="700">Processo Legislativo Municipal</text>
+  <text x="120" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#B7C7D6">Tramitação de proposições, comissões e técnica de votação na Câmara Municipal</text>
+  <g transform="translate(120,340) scale(0.71)">
+  <path d="M4 6h16v15H4zM4 10h16M8 3v5M16 3v5" fill="none" stroke="#B8862B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="146" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#DCE7F0">14 e 15/09/2026</text>
+  <g transform="translate(340,340) scale(0.71)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#B8862B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="366" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#DCE7F0">19h às 22h · 8 horas</text>
+  <g transform="translate(560,340) scale(0.71)">
+  <path d="M12 21s7-6.3 7-11a7 7 0 1 0-14 0c0 4.7 7 11 7 11ZM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" fill="none" stroke="#B8862B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="586" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#DCE7F0">Online · ao vivo</text>
+  <g transform="translate(780,340) scale(0.71)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#B8862B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="806" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#DCE7F0">Interno e externo</text>
+  <rect x="906" y="468" width="414" height="372" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.4"/>
+  <rect x="906" y="468" width="414" height="6" rx="12" fill="#1B7A57"/>
+  <rect x="906" y="471" width="414" height="3" fill="#1B7A57"/>
+  <text x="930" y="512" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#1B7A57" font-weight="700">Inscrições abertas</text>
+  <text x="930" y="534" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Encerram em 10/09/2026 às 23h59</text>
+  <text x="930" y="572" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">18 de 30 vagas preenchidas</text>
+  <rect x="930" y="582" width="366" height="8" rx="4" fill="#E6ECF2"/>
+  <rect x="930" y="582" width="219.6" height="8" rx="4" fill="#B0700A"/>
+  <text x="930" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B0700A" font-weight="700">12 vagas restantes</text>
+  <rect x="930" y="630" width="366" height="52" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1113" y="661.6" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">Inscrever-se neste curso</text>
+  <rect x="927" y="627" width="372" height="58" rx="9" fill="none" stroke="#B8862B" stroke-width="1.5"/>
+  <rect x="930" y="692" width="366" height="44" rx="6" fill="#EDF1F5" stroke="#DBE3EC" stroke-width="1.5"/>
+  <text x="1113" y="718.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#95A5B4" font-weight="700" text-anchor="middle">Entrar na lista de espera</text>
+  <text x="930" y="756" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Gratuito · Certificado digital ao final</text>
+  <line x1="930" y1="772" x2="1296" y2="772" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(930,792) scale(0.71)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#1B7A57" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="956" y="806" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Frequência mínima de 75% para certificado</text>
+  <rect x="906" y="860" width="414" height="190" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="930" y="900" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#122231" font-weight="700">Acesso ao curso online</text>
+  <g transform="translate(1272,886) scale(0.83)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M10 8.5l6 3.5-6 3.5z" fill="none" stroke="#1263A5" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="930" y="918" width="366" height="62" rx="8" fill="#FCF0DA" stroke="#EBCE95" stroke-width="1.2"/>
+  <g transform="translate(946,938) scale(0.75)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#B0700A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="972" y="944" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B0700A">O link da transmissão será liberado nesta</text>
+  <text x="972" y="961" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B0700A">página após a confirmação da inscrição.</text>
+  <text x="930" y="1006" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Plataforma: ambiente do portal / transmissão</text>
+  <text x="930" y="1024" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">externa (a definir em reunião)</text>
+  <rect x="906" y="1070" width="414" height="176" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="930" y="1110" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#122231" font-weight="700">Compartilhar e apoio</text>
+  <g transform="translate(930,1132) scale(0.71)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="956" y="1146" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#0D4E85">Copiar link do curso</text>
+  <g transform="translate(930,1166) scale(0.71)">
+  <path d="M7 9V3h10v6M7 18H4V9h16v9h-3M7 14h10v7H7z" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="956" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#0D4E85">Imprimir ficha do curso</text>
+  <g transform="translate(930,1200) scale(0.71)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#64778A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="956" y="1214" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Dúvidas: escoladolegislativo@recife.pe.leg.br</text>
+  <text x="120" y="486" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">O que você vai aprender</text>
+  <rect x="120" y="498" width="198.37" height="3.5" rx="2" fill="#B8862B"/>
+  <text x="348.38" y="486" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Sobre o professor</text>
+  <text x="512.25" y="486" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Cronograma e turmas</text>
+  <text x="691.88" y="486" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64778A">Materiais</text>
+  <line x1="120" y1="500" x2="882" y2="500" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="540" width="762" height="310" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="148" y="586" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">O que você vai aprender (Ementa)</text>
+  <text x="148" y="620" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#2A3B4A">O curso apresenta o rito completo de tramitação de proposições na Câmara Municipal do</text>
+  <text x="148" y="642" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#2A3B4A">Recife, do protocolo à sanção, com exercícios práticos sobre emendas, pareceres e ordem do</text>
+  <text x="148" y="664" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#2A3B4A">dia.</text>
+  <circle cx="156" cy="696" r="8" fill="#E3F3EC"/>
+  <path d="M152.5 696 l2.6 2.8 L160 691" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="700" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Espécies de proposições e admissibilidade</text>
+  <circle cx="509" cy="696" r="8" fill="#E3F3EC"/>
+  <path d="M505.5 696 l2.6 2.8 L513 691" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="527" y="700" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Comissões permanentes e temporárias</text>
+  <circle cx="156" cy="728" r="8" fill="#E3F3EC"/>
+  <path d="M152.5 728 l2.6 2.8 L160 723" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="732" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Regime de tramitação, quórum e votação</text>
+  <circle cx="509" cy="728" r="8" fill="#E3F3EC"/>
+  <path d="M505.5 728 l2.6 2.8 L513 723" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="527" y="732" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Redação final, autógrafo, sanção e veto</text>
+  <circle cx="156" cy="760" r="8" fill="#E3F3EC"/>
+  <path d="M152.5 760 l2.6 2.8 L160 755" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="764" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Transparência e participação cidadã</text>
+  <circle cx="509" cy="760" r="8" fill="#E3F3EC"/>
+  <path d="M505.5 760 l2.6 2.8 L513 755" fill="none" stroke="#1B7A57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="527" y="764" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Ordem do dia e técnica de votação</text>
+  <rect x="120" y="874" width="762" height="214" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="148" y="918" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Público-alvo e pré-requisitos</text>
+  <text x="148" y="958" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Público-alvo</text>
+  <text x="148" y="978" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">Servidores da CMR, servidores de outros órgãos e público externo interessado em processo</text>
+  <text x="148" y="997" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">legislativo.</text>
+  <text x="148" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#122231" font-weight="700">Pré-requisitos</text>
+  <text x="148" y="1040" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">Não há. Recomenda-se noção básica de organização do Poder Legislativo municipal.</text>
+  <rect x="120" y="1112" width="762" height="176" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="148" y="1156" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Certificação</text>
+  <text x="148" y="1188" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">O certificado digital é emitido pela Escola do Legislativo após o lançamento da frequência pelo</text>
+  <text x="148" y="1209" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">gestor, exigida a presença mínima de 75%. O documento traz código de autenticidade único e pode ser</text>
+  <text x="148" y="1230" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">conferido na área pública de validação.</text>
+  <text x="148" y="1262" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#0D4E85" font-weight="700">Ir para a validação de certificados</text>
+  <line x1="148" y1="1266" x2="419.69" y2="1266" stroke="#0D4E85" stroke-width="1"/>
+  <rect x="0" y="1368" width="1440" height="330" fill="#0E2C4B"/>
+  <rect x="0" y="1368" width="1440" height="4" fill="#B8862B"/>
+  <text x="120" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <rect x="120" y="1442" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="120" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Rua Princesa Isabel, 410 - 1o Andar</text>
+  <text x="120" y="1500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Boa Vista - Recife/PE - CEP 50050-330</text>
+  <text x="120" y="1526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">(81) 3355-4000 | ramal 4120</text>
+  <text x="120" y="1552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">escoladolegislativo@recife.pe.leg.br</text>
+  <text x="120" y="1578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Atendimento: seg a sex, 8h as 17h</text>
+  <text x="390" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Institucional</text>
+  <rect x="390" y="1442" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="390" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Quem Somos</text>
+  <text x="390" y="1500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">História e composição</text>
+  <text x="390" y="1526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Legislação e Transparência</text>
+  <text x="390" y="1552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Instrumentos jurídicos</text>
+  <text x="390" y="1578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Escolas parceiras</text>
+  <text x="660" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Serviços</text>
+  <rect x="660" y="1442" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="660" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Cursos e eventos</text>
+  <text x="660" y="1500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Área do Aluno</text>
+  <text x="660" y="1526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Validar certificado</text>
+  <text x="660" y="1552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Acervo / Biblioteca</text>
+  <text x="660" y="1578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Notícias</text>
+  <text x="930" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escolas parceiras</text>
+  <rect x="930" y="1442" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="930" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALMG - Minas Gerais</text>
+  <g transform="translate(1067.67,1462) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALEP - Paraná</text>
+  <g transform="translate(1026.72,1488) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Interlegis / ILB</text>
+  <g transform="translate(1047.2,1514) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ABEL - Associação Brasileira</text>
+  <g transform="translate(1129.1,1540) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Ver todas as parceiras</text>
+  <g transform="translate(1088.15,1566) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="120" y1="1632" x2="1320" y2="1632" stroke="#2A4A6B" stroke-width="1.2"/>
+  <text x="120" y="1664" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">© 2026 Câmara Municipal do Recife - Divisão de Informática</text>
+  <text x="1320" y="1664" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" text-anchor="end">Política de Privacidade  |  LGPD  |  Termos de uso</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1698" width="1440" height="309" fill="#101E2B"/>
+  <rect x="0" y="1698" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1734" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1738" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1766" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1753" width="49.6" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="384.8" y="1768.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 2</text>
+  <rect x="417.6" y="1753" width="49.6" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="442.4" y="1768.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 7</text>
+  <rect x="475.2" y="1753" width="49.6" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="500" y="1768.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 8</text>
+  <text x="120" y="1798" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9B44C" font-weight="700">Decisões pendentes de reunião</text>
+  <circle cx="126" cy="1816" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1820" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 2 - Para eventos online/híbridos, o link é exibido na própria página de detalhes (Opção 1) ou somente após a inscrição (Opção 2)? A tela está desenhada na</text>
+  <text x="142" y="1839" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">Opção 2.</text>
+  <circle cx="126" cy="1864" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1868" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 2 - Como deve acontecer um curso online: transmissão em plataforma externa (Meet/Teams/YouTube) ou ambiente próprio dentro do portal?</text>
+  <text x="120" y="1909" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1929" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Aba 'O que você vai aprender' (Ementa) com botão de ação Inscrever-se, painel de vagas e botão de lista de espera desabilitado enquanto houver vaga.</text>
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1543" viewBox="0 0 1440 1543">
+  <title>20-certificado-pdf-opcao1-codigo</title>
+  <rect width="1440" height="1543" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="150" fill="#0E2C4B"/>
+  <rect x="0" y="0" width="1440" height="4" fill="#B8862B"/>
+  <rect x="120" y="40" width="196.5" height="28" rx="14" fill="#B0700A" stroke="#B0700A" stroke-width="1"/>
+  <text x="132" y="58.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">DECISÃO EM REUNIÃO - RF 4</text>
+  <text x="120" y="98" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#FFFFFF" font-weight="700">Modelo do certificado em PDF - Opção 1: somente código</text>
+  <text x="120" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B7C7D6">O interessado acessa o portal e digita o código manualmente na área de validação.</text>
+  <rect x="1200" y="44" width="120" height="62" rx="8" fill="#1E4D75" stroke="#B8862B" stroke-width="1.4"/>
+  <text x="1260" y="71.85" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" text-anchor="middle">OPÇÃO</text>
+  <text x="1260" y="100.4" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+  <rect x="206" y="180" width="1028" height="796" rx="8" fill="#E9EEF4"/>
+  <rect x="220" y="194" width="1000" height="768" rx="4" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <rect x="238" y="212" width="964" height="732" rx="2" fill="none" stroke="#B8862B" stroke-width="1.6"/>
+  <rect x="244" y="218" width="952" height="720" rx="2" fill="none" stroke="#E7D2A4" stroke-width="1"/>
+  <rect x="694" y="250" width="52" height="52" rx="8" fill="#0E2C4B"/>
+  <g transform="translate(706,262) scale(1.17)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.71" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="720" y="330.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0E2C4B" font-weight="700" text-anchor="middle">CÂMARA MUNICIPAL DO RECIFE</text>
+  <text x="720" y="350.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#B8862B" font-weight="700" text-anchor="middle">ESCOLA DO LEGISLATIVO</text>
+  <text x="720" y="416" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#0E2C4B" font-weight="700" text-anchor="middle">CERTIFICADO</text>
+  <rect x="660" y="422" width="120" height="3" rx="2" fill="#B8862B"/>
+  <text x="720" y="472.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64778A" text-anchor="middle">Certificamos que</text>
+  <text x="720" y="515.8" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#122231" font-weight="700" text-anchor="middle">MARIA SILVA DOS SANTOS</text>
+  <text x="720" y="550.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A" text-anchor="middle">CPF 123.***.***-89  -  Matrícula 20.451-7</text>
+  <text x="720" y="590.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64778A" text-anchor="middle">concluiu com aproveitamento o curso</text>
+  <text x="720" y="625.7" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#122231" font-weight="700" text-anchor="middle">Processo Legislativo Municipal</text>
+  <text x="720" y="656.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" text-anchor="middle">carga horária de 8 (oito) horas, realizado nos dias 14 e 15 de setembro de 2026,</text>
+  <text x="720" y="676.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" text-anchor="middle">com frequência de 100% e aprovação na avaliação final.</text>
+  <text x="720" y="730.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A" text-anchor="middle">Recife, 16 de setembro de 2026.</text>
+  <line x1="390" y1="772" x2="650" y2="772" stroke="#8A99A8" stroke-width="1.2"/>
+  <text x="520" y="792.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700" text-anchor="middle">Ricardo Ferraz</text>
+  <text x="520" y="810.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" text-anchor="middle">Diretor Geral</text>
+  <line x1="790" y1="772" x2="1050" y2="772" stroke="#8A99A8" stroke-width="1.2"/>
+  <text x="920" y="792.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#122231" font-weight="700" text-anchor="middle">Robertson Barros</text>
+  <text x="920" y="810.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" text-anchor="middle">Coordenador da Escola do Legislativo</text>
+  <line x1="260" y1="858" x2="1180" y2="858" stroke="#E7D2A4" stroke-width="1.2"/>
+  <text x="266" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#B8862B" font-weight="700" letter-spacing="1.2">CÓDIGO DE AUTENTICIDADE</text>
+  <text x="266" y="910" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#0E2C4B" font-weight="700" letter-spacing="1">ELCMR-2026-A7K9-3F2D-8B1C</text>
+  <text x="266" y="930" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#64778A">Valide em: escoladolegislativo.recife.pe.leg.br/validar-certificado</text>
+  <text x="1174" y="898" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#64778A" text-anchor="end">Documento emitido eletronicamente pela</text>
+  <text x="1174" y="916" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#64778A" text-anchor="end">Escola do Legislativo - CMR</text>
+  <rect x="120" y="1006" width="588" height="214" rx="10" fill="#E3F3EC" stroke="#A9DCC6" stroke-width="1.2"/>
+  <g transform="translate(144,1032) scale(0.83)">
+  <path d="M4 12.5 9.5 18 20 6" fill="none" stroke="#1B7A57" stroke-width="2.28" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="174" y="1048" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#1B7A57" font-weight="700">Vantagens</text>
+  <circle cx="150" cy="1084" r="3.5" fill="#1B7A57"/>
+  <text x="166" y="1088" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Layout mais limpo e tradicional, sem elemento gráfico adicional.</text>
+  <circle cx="150" cy="1130" r="3.5" fill="#1B7A57"/>
+  <text x="166" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Não depende de câmera nem de leitor de QR Code.</text>
+  <circle cx="150" cy="1176" r="3.5" fill="#1B7A57"/>
+  <text x="166" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Menor custo de implementação e de impressão.</text>
+  <rect x="732" y="1006" width="588" height="214" rx="10" fill="#FCF0DA" stroke="#EBCE95" stroke-width="1.2"/>
+  <g transform="translate(756,1032) scale(0.83)">
+  <path d="M12 3 22 20H2zM12 9v5M12 17h.01" fill="none" stroke="#B0700A" stroke-width="2.28" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="786" y="1048" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#B0700A" font-weight="700">Pontos de atenção</text>
+  <circle cx="762" cy="1084" r="3.5" fill="#B0700A"/>
+  <text x="778" y="1088" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Exige digitação manual de 24 caracteres, com risco de erro.</text>
+  <circle cx="762" cy="1130" r="3.5" fill="#B0700A"/>
+  <text x="778" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Mais passos até o resultado da validação.</text>
+  <circle cx="762" cy="1176" r="3.5" fill="#B0700A"/>
+  <text x="778" y="1180" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A">Menos prático para conferência presencial rápida.</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1280" width="1440" height="263" fill="#101E2B"/>
+  <rect x="0" y="1280" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1316" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1320" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1348" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1335" width="304.9" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="512.45" y="1350.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 4 - Geração do código de autenticidade</text>
+  <text x="120" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9B44C" font-weight="700">Decisões pendentes de reunião</text>
+  <circle cx="126" cy="1398" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1402" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">Escolher entre a Opção 1 (somente código alfanumérico + URL) e a Opção 2 (código + QR Code com validação instantânea) para impressão no PDF do certificado.</text>
+  <text x="120" y="1443" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1463" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">O código identificador único e alfanumérico é gerado automaticamente pelo sistema no momento da emissão do certificado pelo gestor e consta no rodapé do PDF junto à URL da</text>
+  <text x="120" y="1483" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">página de validação.</text>
+  </g>
+</svg>

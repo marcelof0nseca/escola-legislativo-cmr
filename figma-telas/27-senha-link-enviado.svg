@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="942" viewBox="0 0 1440 942">
+  <title>27-senha-link-enviado</title>
+  <rect width="1440" height="942" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="780" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="120" fill="#0E2C4B"/>
+  <rect x="120" y="34" width="52" height="52" rx="9" fill="#1E4D75"/>
+  <g transform="translate(133,47) scale(1.08)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="184" y="54" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <text x="184" y="74" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">Câmara Municipal do Recife</text>
+  <text x="1320" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#B7C7D6" text-anchor="end">Voltar ao login</text>
+  <rect x="440" y="190" width="560" height="462" rx="14" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.4"/>
+  <circle cx="720" cy="278" r="40" fill="#E3F3EC"/>
+  <g transform="translate(703,261) scale(1.42)">
+  <path d="M3 6h18v13H3zM3 7l9 6 9-6" fill="none" stroke="#1B7A57" stroke-width="1.41" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="720" y="367.1" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#122231" font-weight="700" text-anchor="middle">Verifique seu e-mail</text>
+  <text x="720" y="398.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64778A" text-anchor="middle">Se o identificador informado estiver cadastrado, enviamos</text>
+  <text x="720" y="420.9" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64778A" text-anchor="middle">um link de recuperação para  m****@email.com</text>
+  <rect x="480" y="448" width="480" height="76" rx="10" fill="#FCF0DA" stroke="#EBCE95" stroke-width="1.2"/>
+  <g transform="translate(500,474) scale(0.83)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3.5 2" fill="none" stroke="#B0700A" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="530" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B0700A" font-weight="700">O link é válido por 2 horas</text>
+  <text x="530" y="502" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Depois disso será necessário solicitar um novo link.</text>
+  <rect x="480" y="546" width="480" height="50" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="720" y="576.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">Voltar para o login</text>
+  <text x="720" y="630.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A" text-anchor="middle">Não recebeu? Reenviar em 00:59</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="780" width="1440" height="162" fill="#101E2B"/>
+  <rect x="0" y="780" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="816" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="820" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="848" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="835" width="208.3" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="464.15" y="850.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 5 - Recuperação de senha</text>
+  <text x="120" y="880" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="900" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">O sistema gera um token único, criptografado e temporário (validade de 2 horas) e envia o link para o e-mail cadastrado do usuário.</text>
+  </g>
+</svg>

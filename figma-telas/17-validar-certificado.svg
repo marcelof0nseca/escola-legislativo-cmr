@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1652" viewBox="0 0 1440 1652">
+  <title>17-validar-certificado</title>
+  <rect width="1440" height="1652" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="40" fill="#0E2C4B"/>
+  <text x="120" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" font-weight="700" letter-spacing="1.2">CÂMARA MUNICIPAL DO RECIFE</text>
+  <text x="1320" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Mapa do site</text>
+  <text x="1218.4" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Alto contraste</text>
+  <text x="1104.2" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#9FB6CB" text-anchor="end">Acessibilidade</text>
+  <rect x="0" y="40" width="1440" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="128" x2="1440" y2="128" stroke="#DBE3EC" stroke-width="1.5"/>
+  <rect x="120" y="62" width="46" height="46" rx="8" fill="#0E2C4B"/>
+  <g transform="translate(131,73) scale(1)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="180" y="80" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#122231" font-weight="700">Escola do Legislativo</text>
+  <text x="180" y="99" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Câmara Municipal do Recife</text>
+  <text x="430" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Home</text>
+  <text x="487.4" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Cursos e Eventos</text>
+  <text x="633" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">A Escola</text>
+  <text x="719.8" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Acervo</text>
+  <text x="791.9" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Notícias</text>
+  <text x="878.7" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Contato</text>
+  <rect x="1280" y="68" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.3"/>
+  <g transform="translate(1291,79) scale(0.75)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1120" y="68" width="148" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="1194" y="92.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar / Cadastre-se</text>
+  <rect x="0" y="128" width="1440" height="210" fill="#0E2C4B"/>
+  <text x="120" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#9FB6CB">Home</text>
+  <g transform="translate(151.25,161) scale(0.5)">
+  <path d="M9.5 5 16 12l-6.5 7" fill="none" stroke="#7D93A8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="167.25" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700">Validar certificado</text>
+  <g transform="translate(120,202) scale(1.25)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#B8862B" stroke-width="1.52" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="228" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Validação de Certificados</text>
+  <text x="120" y="258" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">Área pública para que qualquer cidadão, empresa ou órgão governamental confira a autenticidade</text>
+  <text x="120" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">dos certificados emitidos pela Escola do Legislativo.</text>
+  <rect x="120" y="386" width="700" height="470" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.4"/>
+  <text x="156" y="444" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#122231" font-weight="700">Informe o código de autenticidade</text>
+  <text x="156" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#64778A">O código está impresso no rodapé do certificado em PDF.</text>
+  <text x="156" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Código de Autenticidade do Certificado</text>
+  <text x="445.05" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="156" y="526" width="628" height="56" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(169,545) scale(0.75)">
+  <path d="M15 3a6 6 0 1 0-4.2 10.2L4 20v3h4v-3h3v-3h3l1-1v-3A6 6 0 0 0 15 3" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="196" y="559" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">ELCMR-2026-A7K9-3F2D-8B1C</text>
+  <rect x="156" y="616" width="320" height="78" rx="8" fill="#F7FAFC" stroke="#C2CEDA" stroke-width="1.3"/>
+  <rect x="178" y="640" width="28" height="28" rx="4" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="220" y="660" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Não sou um robô</text>
+  <rect x="410" y="634" width="44" height="44" rx="6" fill="#E8EEF4"/>
+  <g transform="translate(422,640) scale(0.83)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#4A6B8A" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="410" y="686" font-family="Arial, Helvetica, sans-serif" font-size="8" fill="#64778A" text-anchor="middle">reCAPTCHA</text>
+  <text x="492" y="650" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Proteção contra acessos</text>
+  <text x="492" y="668" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">automatizados ao banco de dados.</text>
+  <rect x="156" y="722" width="260" height="54" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(185.6,740) scale(0.75)">
+  <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14M16.5 16.5 21 21" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="211.6" y="754.6" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="700">Validar certificado</text>
+  <rect x="153" y="719" width="266" height="60" rx="9" fill="none" stroke="#B8862B" stroke-width="1.5"/>
+  <rect x="430" y="722" width="170" height="54" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="515" y="754.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A" font-weight="700" text-anchor="middle">Limpar</text>
+  <line x1="156" y1="798" x2="784" y2="798" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(156,816) scale(0.67)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="180" y="828" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Consulta pública e gratuita. Nenhum dado é armazenado nesta consulta.</text>
+  <rect x="844" y="386" width="476" height="470" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="872" y="438" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#122231" font-weight="700">Onde encontrar o código</text>
+  <rect x="872" y="462" width="420" height="200" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="888" y="478" width="388" height="130" rx="4" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.2"/>
+  <text x="1082" y="519.25" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#0E2C4B" font-weight="700" text-anchor="middle">CERTIFICADO</text>
+  <line x1="904" y1="534" x2="1260" y2="534" stroke="#E7D2A4" stroke-width="1"/>
+  <text x="1082" y="558.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A" text-anchor="middle">Maria Silva dos Santos</text>
+  <rect x="900" y="572" width="364" height="28" rx="4" fill="#FAF1DD" stroke="#E7D2A4" stroke-width="1.2"/>
+  <text x="1082" y="590.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#8A6414" font-weight="700" text-anchor="middle">ELCMR-2026-A7K9-3F2D-8B1C</text>
+  <path d="M904 632 L944 602" fill="none" stroke="#A62B21" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="950" y="636" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#A62B21" font-weight="700">Rodapé do PDF do certificado</text>
+  <line x1="872" y1="686" x2="1292" y2="686" stroke="#EDF1F6" stroke-width="1.2"/>
+  <text x="872" y="716" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Precisa de ajuda?</text>
+  <circle cx="878" cy="742" r="3" fill="#B8862B"/>
+  <text x="892" y="746" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">O código tem 24 caracteres alfanuméricos.</text>
+  <circle cx="878" cy="776" r="3" fill="#B8862B"/>
+  <text x="892" y="780" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Digite sem espaços; os hifens são opcionais.</text>
+  <circle cx="878" cy="810" r="3" fill="#B8862B"/>
+  <text x="892" y="814" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Certificados anteriores a 2026 devem ser conferidos com a</text>
+  <text x="892" y="831" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Secretaria.</text>
+  <rect x="120" y="896" width="1200" height="88" rx="8" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1.2"/>
+  <rect x="120" y="896" width="4" height="88" rx="2" fill="#0D4E85"/>
+  <g transform="translate(138,913) scale(0.83)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 11v6M12 7.5h.01" fill="none" stroke="#0D4E85" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="170" y="927" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0D4E85" font-weight="700">Cenários possíveis da consulta</text>
+  <text x="170" y="949" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Código válido: o portal exibe a tela de confirmação com os dados do documento. Código inválido: o portal exibe a mensagem 'Certificado não encontrado.</text>
+  <text x="170" y="969" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A">Verifique se o código foi digitado corretamente.'</text>
+  <rect x="0" y="1060" width="1440" height="330" fill="#0E2C4B"/>
+  <rect x="0" y="1060" width="1440" height="4" fill="#B8862B"/>
+  <text x="120" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <rect x="120" y="1134" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="120" y="1166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Rua Princesa Isabel, 410 - 1o Andar</text>
+  <text x="120" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Boa Vista - Recife/PE - CEP 50050-330</text>
+  <text x="120" y="1218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">(81) 3355-4000 | ramal 4120</text>
+  <text x="120" y="1244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">escoladolegislativo@recife.pe.leg.br</text>
+  <text x="120" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Atendimento: seg a sex, 8h as 17h</text>
+  <text x="390" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Institucional</text>
+  <rect x="390" y="1134" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="390" y="1166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Quem Somos</text>
+  <text x="390" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">História e composição</text>
+  <text x="390" y="1218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Legislação e Transparência</text>
+  <text x="390" y="1244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Instrumentos jurídicos</text>
+  <text x="390" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Escolas parceiras</text>
+  <text x="660" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Serviços</text>
+  <rect x="660" y="1134" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="660" y="1166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Cursos e eventos</text>
+  <text x="660" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Área do Aluno</text>
+  <text x="660" y="1218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Validar certificado</text>
+  <text x="660" y="1244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Acervo / Biblioteca</text>
+  <text x="660" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Notícias</text>
+  <text x="930" y="1122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Escolas parceiras</text>
+  <rect x="930" y="1134" width="28" height="3" rx="2" fill="#B8862B"/>
+  <text x="930" y="1166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALMG - Minas Gerais</text>
+  <g transform="translate(1067.67,1154) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ALEP - Paraná</text>
+  <g transform="translate(1026.72,1180) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Interlegis / ILB</text>
+  <g transform="translate(1047.2,1206) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">ABEL - Associação Brasileira</text>
+  <g transform="translate(1129.1,1232) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="930" y="1270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B7C7D6">Ver todas as parceiras</text>
+  <g transform="translate(1088.15,1258) scale(0.54)">
+  <path d="M10 14a4 4 0 0 0 6 .5l3-3a4 4 0 0 0-5.7-5.7L11.6 7.5M14 10a4 4 0 0 0-6-.5l-3 3a4 4 0 0 0 5.7 5.7L12.4 16.5" fill="none" stroke="#7D93A8" stroke-width="3.14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <line x1="120" y1="1324" x2="1320" y2="1324" stroke="#2A4A6B" stroke-width="1.2"/>
+  <text x="120" y="1356" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">© 2026 Câmara Municipal do Recife - Divisão de Informática</text>
+  <text x="1320" y="1356" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" text-anchor="end">Política de Privacidade  |  LGPD  |  Termos de uso</text>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1390" width="1440" height="262" fill="#101E2B"/>
+  <rect x="0" y="1390" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1426" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1430" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1458" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1445" width="49.6" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="384.8" y="1460.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 4</text>
+  <text x="120" y="1490" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9B44C" font-weight="700">Decisões pendentes de reunião</text>
+  <circle cx="126" cy="1508" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1512" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 4 - Formato de validação impresso no PDF: apenas código alfanumérico + link (Opção 1) ou código + QR Code com validação instantânea (Opção 2)? Ver telas 20 e</text>
+  <text x="142" y="1531" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">21.</text>
+  <text x="120" y="1572" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1592" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Tela pública de consulta do RF 4, com campo do código, proteção reCAPTCHA contra varredura do banco e orientação de onde encontrar o código no PDF.</text>
+  </g>
+</svg>

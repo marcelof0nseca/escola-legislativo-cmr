@@ -1,0 +1,353 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2688" viewBox="0 0 1440 2688">
+  <title>57-decisoes-em-reuniao</title>
+  <rect width="1440" height="2688" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1440" height="230" fill="#0E2C4B"/>
+  <rect x="0" y="0" width="1440" height="4" fill="#B8862B"/>
+  <rect x="120" y="44" width="134.4" height="28" rx="14" fill="#B0700A" stroke="#B0700A" stroke-width="1"/>
+  <text x="132" y="62.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">PAUTA DA REUNIÃO</text>
+  <text x="120" y="118" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#FFFFFF" font-weight="700">Decisões pendentes do Portal da Escola do Legislativo</text>
+  <text x="120" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#B7C7D6">Pontos marcados como [DECISÃO EM REUNIÃO] no documento preliminar de especificação de requisitos. Cada item indica em</text>
+  <text x="120" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#B7C7D6">quais telas do protótipo a escolha aparece.</text>
+  <rect x="1120" y="60" width="200" height="110" rx="10" fill="#1E4D75" stroke="#B8862B" stroke-width="1.4"/>
+  <text x="1220" y="110" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#B8862B" font-weight="700" text-anchor="middle">14</text>
+  <text x="1220" y="132.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">decisões a tomar</text>
+  <text x="1220" y="151.68" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8FA6BA" text-anchor="middle">processo nº 3096/2025</text>
+  <rect x="120" y="274" width="588" height="310" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="274" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="277" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="314" r="17" fill="#0E2C4B"/>
+  <text x="154" y="318.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D1</text>
+  <rect x="180" y="302" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="317.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 2</text>
+  <text x="142" y="356" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Para eventos online ou híbridos, de que forma o link deve ser</text>
+  <text x="142" y="377" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">disponibilizado?</text>
+  <rect x="142" y="404" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="433" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="437.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="424" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 1 - Link exibido na própria página de detalhes do curso, visível a</text>
+  <text x="182" y="441" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">qualquer visitante.</text>
+  <rect x="142" y="470" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="499" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="503.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="490" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 2 - Link liberado somente após o aluno realizar a inscrição no</text>
+  <text x="182" y="507" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">portal.</text>
+  <line x1="142" y1="544" x2="686" y2="544" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,554) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="565" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 05, 32, 36</text>
+  <text x="686" y="565" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="274" width="588" height="310" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="274" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="277" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="314" r="17" fill="#0E2C4B"/>
+  <text x="766" y="318.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D2</text>
+  <rect x="792" y="302" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="317.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 2</text>
+  <text x="754" y="356" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Como deve acontecer um curso online?</text>
+  <rect x="754" y="382" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="411" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="415.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="402" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Transmissão em plataforma externa (Meet, Teams, YouTube), com link</text>
+  <text x="794" y="419" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">publicado pelo portal.</text>
+  <rect x="754" y="448" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="477" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="481.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="468" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Ambiente próprio dentro do portal, com sala virtual e registro de acesso.</text>
+  <line x1="754" y1="544" x2="1298" y2="544" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,554) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="565" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 05, 36</text>
+  <text x="1298" y="565" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="604" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="604" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="607" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="644" r="17" fill="#0E2C4B"/>
+  <text x="154" y="648.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D3</text>
+  <rect x="180" y="632" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="647.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 3</text>
+  <text x="142" y="686" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Como as notícias em destaque chegam à página inicial?</text>
+  <rect x="142" y="712" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="741" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="745.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">O gestor marca manualmente quais notícias ficam em destaque e em que</text>
+  <text x="182" y="749" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">ordem.</text>
+  <rect x="142" y="778" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="807" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="811.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="798" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">O portal exibe automaticamente as N notícias mais recentes por data de</text>
+  <text x="182" y="815" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">cadastro.</text>
+  <line x1="142" y1="852" x2="686" y2="852" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,862) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="873" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 01, 49</text>
+  <text x="686" y="873" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="604" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="604" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="607" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="644" r="17" fill="#0E2C4B"/>
+  <text x="766" y="648.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D4</text>
+  <rect x="792" y="632" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="647.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 4</text>
+  <text x="754" y="686" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Qual formato de validação será impresso no PDF do certificado?</text>
+  <rect x="754" y="712" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="741" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="745.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 1 - Apenas o código alfanumérico e o link do portal (digitação</text>
+  <text x="794" y="749" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">manual).</text>
+  <rect x="754" y="778" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="807" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="811.02" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="798" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 2 - Código alfanumérico + QR Code, com validação instantânea pela</text>
+  <text x="794" y="815" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">câmera.</text>
+  <line x1="754" y1="852" x2="1298" y2="852" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,862) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="873" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 20, 21, 47</text>
+  <text x="1298" y="873" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="912" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="912" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="915" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="952" r="17" fill="#0E2C4B"/>
+  <text x="154" y="956.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D5</text>
+  <rect x="180" y="940" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="955.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 4</text>
+  <text x="142" y="994" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Quais dados aparecem na tela de sucesso da validação (LGPD)?</text>
+  <rect x="142" y="1020" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1043" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1047.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="1040" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Nome completo, CPF mascarado, curso, carga horária e data de conclusão.</text>
+  <rect x="142" y="1074" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1097" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1101.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="1094" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Acrescentar a matrícula nos casos de servidores da Casa.</text>
+  <line x1="142" y1="1160" x2="686" y2="1160" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,1170) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="1181" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 18</text>
+  <text x="686" y="1181" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="912" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="912" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="915" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="952" r="17" fill="#0E2C4B"/>
+  <text x="766" y="956.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D6</text>
+  <rect x="792" y="940" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="955.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 5</text>
+  <text x="754" y="994" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Qual será o identificador principal de acesso (login)?</text>
+  <rect x="754" y="1020" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1049" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1053.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="1040" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 1 (recomendada) - CPF. Garante unicidade e evita contas duplicadas.</text>
+  <rect x="754" y="1086" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1115" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1119.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="1106" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 2 - E-mail. Padrão de mercado, mas o usuário pode trocar e perder o</text>
+  <text x="794" y="1123" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">histórico.</text>
+  <line x1="754" y1="1160" x2="1298" y2="1160" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,1170) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="1181" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 22, 23, 24, 26</text>
+  <text x="1298" y="1181" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="1220" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="1220" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="1223" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="1260" r="17" fill="#0E2C4B"/>
+  <text x="154" y="1264.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D7</text>
+  <rect x="180" y="1248" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="1263.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 5</text>
+  <text x="142" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Como será o login dos servidores da Câmara Municipal do Recife?</text>
+  <rect x="142" y="1328" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1357" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1361.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="1348" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Integração com a rede interna via LDAP / Active Directory (Single Sign-</text>
+  <text x="182" y="1365" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">On).</text>
+  <rect x="142" y="1394" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1423" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1427.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="1414" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Banco de senhas isolado no portal: o servidor cria e gerencia uma senha</text>
+  <text x="182" y="1431" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">nova.</text>
+  <line x1="142" y1="1468" x2="686" y2="1468" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,1478) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="1489" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 22</text>
+  <text x="686" y="1489" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="1220" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="1220" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="1223" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="1260" r="17" fill="#0E2C4B"/>
+  <text x="766" y="1264.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D8</text>
+  <rect x="792" y="1248" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="1263.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 5</text>
+  <text x="754" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Haverá política de bloqueio contra ataque de força bruta?</text>
+  <rect x="754" y="1328" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1357" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1361.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="1348" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Sim - bloquear a conta por 30 minutos após 5 tentativas consecutivas</text>
+  <text x="794" y="1365" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">malsucedidas.</text>
+  <rect x="754" y="1394" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1417" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1421.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="1414" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Definir outro número de tentativas e outro tempo de bloqueio.</text>
+  <line x1="754" y1="1468" x2="1298" y2="1468" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,1478) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="1489" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 23</text>
+  <text x="1298" y="1489" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="1528" width="588" height="298" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="1528" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="1531" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="1568" r="17" fill="#0E2C4B"/>
+  <text x="154" y="1572.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D9</text>
+  <rect x="180" y="1556" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="1571.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 6</text>
+  <text x="142" y="1610" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Qual será o modelo de acesso do aluno?</text>
+  <rect x="142" y="1636" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1665" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1669.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="1656" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 1 - Cadastro único com login e senha, com Área do Aluno, histórico e</text>
+  <text x="182" y="1673" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">certificados.</text>
+  <rect x="142" y="1702" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1731" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="1735.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="1722" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 2 - Formulário aberto a cada curso, sem histórico e sem área do</text>
+  <text x="182" y="1739" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">aluno.</text>
+  <line x1="142" y1="1786" x2="686" y2="1786" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,1796) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="1807" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 24, 29, 34, 37</text>
+  <text x="686" y="1807" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="1528" width="588" height="298" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="1528" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="1531" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="1568" r="17" fill="#0E2C4B"/>
+  <text x="766" y="1572.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D10</text>
+  <rect x="792" y="1556" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="1571.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 6</text>
+  <text x="754" y="1610" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Confirmar os dados coletados no cadastro do aluno (finalidade</text>
+  <text x="754" y="1631" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">LGPD).</text>
+  <rect x="754" y="1658" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1687" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1691.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="1678" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Nome, CPF, e-mail, telefone/WhatsApp, tipo de vínculo, matrícula</text>
+  <text x="794" y="1695" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">(condicional) e senha.</text>
+  <rect x="754" y="1724" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1747" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1751.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="1744" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Retirar ou acrescentar campos após análise de finalidade específica.</text>
+  <line x1="754" y1="1786" x2="1298" y2="1786" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,1796) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="1807" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 24, 38</text>
+  <text x="1298" y="1807" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="1846" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="1846" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="1849" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="1886" r="17" fill="#0E2C4B"/>
+  <text x="154" y="1890.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D11</text>
+  <rect x="180" y="1874" width="49.3" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="1889.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 7</text>
+  <text x="142" y="1928" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">O mesmo aluno pode se inscrever em mais de uma turma do mesmo</text>
+  <text x="142" y="1949" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">curso?</text>
+  <rect x="142" y="1976" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="1999" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="2003.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="1996" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Não - uma inscrição ativa por curso, liberando vaga para mais pessoas.</text>
+  <rect x="142" y="2030" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="2053" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="2057.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="2050" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Sim - permitido, por exemplo para reposição de conteúdo.</text>
+  <line x1="142" y1="2094" x2="686" y2="2094" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,2104) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="2115" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 30, 34</text>
+  <text x="686" y="2115" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="1846" width="588" height="288" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="1846" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="1849" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="1886" r="17" fill="#0E2C4B"/>
+  <text x="766" y="1890.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D12</text>
+  <rect x="792" y="1874" width="55.62" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="1889.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 10</text>
+  <text x="754" y="1928" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Quando surgir vaga, como a fila de espera é chamada?</text>
+  <rect x="754" y="1954" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="1983" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="1987.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="1974" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 1 - O sistema avisa o próximo por e-mail e dá 24h para assumir a</text>
+  <text x="794" y="1991" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">vaga.</text>
+  <rect x="754" y="2020" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="2049" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="2053.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="2040" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Opção 2 - Manual: alguém da Escola entra em contato com o próximo da fila.</text>
+  <line x1="754" y1="2094" x2="1298" y2="2094" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,2104) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="2115" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 33, 45</text>
+  <text x="1298" y="2115" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="2154" width="588" height="276" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="120" y="2154" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="120" y="2157" width="588" height="2" fill="#B8862B"/>
+  <circle cx="154" cy="2194" r="17" fill="#0E2C4B"/>
+  <text x="154" y="2198.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D13</text>
+  <rect x="180" y="2182" width="55.62" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="192" y="2197.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 13</text>
+  <text x="142" y="2236" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Um curso pode ter várias turmas? Como divulgar dias e horários?</text>
+  <rect x="142" y="2262" width="544" height="58" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="2291" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="2295.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="182" y="2282" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Sim - cada turma com período, horário, local, professor e vagas próprios,</text>
+  <text x="182" y="2299" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">exibidos na página do curso.</text>
+  <rect x="142" y="2328" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="162" cy="2351" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="162" y="2355.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="182" y="2348" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Não - um curso equivale a uma única turma.</text>
+  <line x1="142" y1="2390" x2="686" y2="2390" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(142,2400) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="164" y="2411" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 07, 30, 42</text>
+  <text x="686" y="2411" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="732" y="2154" width="588" height="276" rx="12" fill="#FFFFFF" stroke="#DBE3EC" stroke-width="1.3"/>
+  <rect x="732" y="2154" width="588" height="5" rx="12" fill="#B8862B"/>
+  <rect x="732" y="2157" width="588" height="2" fill="#B8862B"/>
+  <circle cx="766" cy="2194" r="17" fill="#0E2C4B"/>
+  <text x="766" y="2198.38" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">D14</text>
+  <rect x="792" y="2182" width="55.62" height="24" rx="12" fill="#E8F1F9" stroke="#A9CBE8" stroke-width="1"/>
+  <text x="804" y="2197.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0D4E85" font-weight="700">RF 14</text>
+  <text x="754" y="2236" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#122231" font-weight="700">Qual a frequência mínima para emissão do certificado?</text>
+  <rect x="754" y="2262" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="2285" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="2289.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">A</text>
+  <text x="794" y="2282" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">75% da carga horária (proposta do protótipo).</text>
+  <rect x="754" y="2316" width="544" height="46" rx="8" fill="#F7FAFC" stroke="#DBE3EC" stroke-width="1.1"/>
+  <circle cx="774" cy="2339" r="11" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="774" y="2343.03" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A" font-weight="700" text-anchor="middle">B</text>
+  <text x="794" y="2336" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2A3B4A">Outro percentual, com ou sem avaliação de aproveitamento.</text>
+  <line x1="754" y1="2390" x2="1298" y2="2390" stroke="#EDF1F6" stroke-width="1.2"/>
+  <g transform="translate(754,2400) scale(0.58)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#64778A" stroke-width="2.91" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="776" y="2411" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#64778A">Telas: 46, 47</text>
+  <text x="1298" y="2411" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#95A5B4" text-anchor="end">Decisão: ____________</text>
+  <rect x="120" y="2454" width="1200" height="190" rx="12" fill="#0E2C4B"/>
+  <text x="152" y="2502" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#FFFFFF" font-weight="700">Encaminhamento sugerido</text>
+  <text x="152" y="2546" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#B8862B" font-weight="700">1. Validar o protótipo</text>
+  <text x="152" y="2570" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">Percorrer os 57 frames com a equipe da Escola do</text>
+  <text x="152" y="2588" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">Legislativo.</text>
+  <text x="540" y="2546" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#B8862B" font-weight="700">2. Fechar as 14 decisões</text>
+  <text x="540" y="2570" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">Registrar as escolhas em ata e anexar ao processo</text>
+  <text x="540" y="2588" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">nº 3096/2025.</text>
+  <text x="928" y="2546" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#B8862B" font-weight="700">3. Consolidar a especificação</text>
+  <text x="928" y="2570" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">Atualizar o documento de requisitos com as decisões</text>
+  <text x="928" y="2588" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#B7C7D6">tomadas.</text>
+</svg>

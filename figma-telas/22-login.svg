@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1436" viewBox="0 0 1440 1436">
+  <title>22-login</title>
+  <rect width="1440" height="1436" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="560" height="980" fill="#0E2C4B"/>
+  <rect x="0" y="0" width="4" height="980" fill="#B8862B"/>
+  <rect x="64" y="64" width="52" height="52" rx="9" fill="#1E4D75"/>
+  <g transform="translate(77,77) scale(1.08)">
+  <path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13V9M12 13V7M17 13v-2" fill="none" stroke="#B8862B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="128" y="84" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="700">Escola do Legislativo</text>
+  <text x="128" y="104" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">Câmara Municipal do Recife</text>
+  <text x="64" y="232" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Bem-vindo à Área Restrita</text>
+  <text x="64" y="274" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">Acesse para se inscrever em cursos, acompanhar suas</text>
+  <text x="64" y="298" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#B7C7D6">turmas e baixar seus certificados.</text>
+  <rect x="64" y="380" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,391) scale(0.83)">
+  <path d="M4 6h16v15H4zM4 10h16M8 3v5M16 3v5" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="398" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Inscrições on-line</text>
+  <text x="120" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Garanta sua vaga nas turmas com inscrições abertas.</text>
+  <rect x="64" y="472" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,483) scale(0.83)">
+  <path d="M5 3h14v13H5zM8 7h8M8 10h5M12 16v5l2.5-1.6L17 21v-5" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="490" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Certificados digitais</text>
+  <text x="120" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Baixe a qualquer momento, com código de autenticidade.</text>
+  <rect x="64" y="564" width="42" height="42" rx="8" fill="#1E4D75"/>
+  <g transform="translate(75,575) scale(0.83)">
+  <path d="M9 12a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M2 20c1-3.4 3.6-5 7-5s6 1.6 7 5M16.5 6.2a3.5 3.5 0 0 1 0 6.6M18 15.4c2 .8 3.3 2.3 4 4.6" fill="none" stroke="#B8862B" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="582" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF" font-weight="700">Um cadastro só</text>
+  <text x="120" y="604" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8FA6BA">Servidores da CMR, de outros órgãos e público externo.</text>
+  <line x1="64" y1="850" x2="496" y2="850" stroke="#27476A" stroke-width="1.2"/>
+  <g transform="translate(64,874) scale(0.75)">
+  <path d="M12 3 20 6v6c0 5-4 8-8 9-4-1-8-4-8-9V6zM8.5 12l2.5 2.5L16 9.5" fill="none" stroke="#B8862B" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="92" y="886" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">Seus dados são tratados conforme a LGPD (Lei 13.709/2018) e</text>
+  <text x="92" y="904" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA">usados apenas para gestão das capacitações da Escola.</text>
+  <rect x="560" y="0" width="880" height="980" fill="#FFFFFF"/>
+  <text x="1376" y="56" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#0D4E85" font-weight="700" text-anchor="end">Voltar ao portal</text>
+  <g transform="translate(1227.8,44) scale(0.62)">
+  <path d="M20 12H4M10 6 4 12l6 6" fill="none" stroke="#0D4E85" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="750" y="138" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#122231" font-weight="700">Entrar</text>
+  <text x="750" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#64778A">Informe suas credenciais de acesso ao portal.</text>
+  <text x="750" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">CPF</text>
+  <text x="777.42" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="750" y="232" width="440" height="52" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(763,249) scale(0.75)">
+  <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M4 21c1.2-4 4.2-6 8-6s6.8 2 8 6" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="790" y="263" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2A3B4A">123.456.789-00</text>
+  <text x="750" y="301" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Identificador principal de acesso (ver decisão em reunião).</text>
+  <text x="750" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#2A3B4A" font-weight="700">Senha</text>
+  <text x="792.38" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A62B21" font-weight="700">*</text>
+  <rect x="750" y="344" width="440" height="52" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.4"/>
+  <g transform="translate(763,361) scale(0.75)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#95A5B4" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="794" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="805" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="816" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="827" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="838" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="849" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="860" cy="370" r="3.6" fill="#2A3B4A"/>
+  <circle cx="871" cy="370" r="3.6" fill="#2A3B4A"/>
+  <g transform="translate(1152,361) scale(0.75)">
+  <path d="M2 12s3.8-6.5 10-6.5S22 12 22 12s-3.8 6.5-10 6.5S2 12 2 12M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6" fill="none" stroke="#64778A" stroke-width="2.27" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="750" y="420" width="18" height="18" rx="4" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <text x="778" y="432.96" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Manter minha sessão</text>
+  <text x="778" y="454" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64778A">A sessão permanece por 7 dias.</text>
+  <text x="1055.34" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#0D4E85">Esqueci minha senha</text>
+  <line x1="1055.34" y1="438" x2="1190" y2="438" stroke="#0D4E85" stroke-width="1"/>
+  <rect x="750" y="494" width="440" height="54" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <text x="970" y="526.6" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entrar</text>
+  <rect x="747" y="491" width="446" height="60" rx="9" fill="none" stroke="#B8862B" stroke-width="1.5"/>
+  <line x1="750" y1="582" x2="946" y2="582" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="970" y="586.55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64778A" text-anchor="middle">ou</text>
+  <line x1="994" y1="582" x2="1190" y2="582" stroke="#DBE3EC" stroke-width="1.2"/>
+  <rect x="750" y="608" width="440" height="52" rx="6" fill="#FFFFFF" stroke="#C2CEDA" stroke-width="1.5"/>
+  <g transform="translate(786.23,625) scale(0.75)">
+  <path d="M6 11h12v9H6zM8.5 11V8a3.5 3.5 0 0 1 7 0v3" fill="none" stroke="#2A3B4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="812.23" y="638.73" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#2A3B4A" font-weight="700">Entrar com a rede da Câmara (Single Sign-On)</text>
+  <text x="750" y="682" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Exclusivo para servidores da CMR, usando o login e a senha da rede interna.</text>
+  <line x1="750" y1="716" x2="1190" y2="716" stroke="#DBE3EC" stroke-width="1.2"/>
+  <text x="750" y="750" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#2A3B4A">Ainda não tem cadastro?</text>
+  <text x="927.05" y="750" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0D4E85" font-weight="700">Cadastre-se</text>
+  <line x1="927.05" y1="754" x2="1015.6" y2="754" stroke="#0D4E85" stroke-width="1"/>
+  <g transform="translate(750,784) scale(0.67)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 11v6M12 7.5h.01" fill="none" stroke="#64778A" stroke-width="2.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="774" y="796" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">Se você chegou aqui pelo botão Inscrever-se de um curso, após</text>
+  <text x="774" y="814" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#64778A">entrar você volta direto para a confirmação da inscrição.</text>
+  <g id="ATALHOS-PROTOTIPO">
+  <rect x="0" y="980" width="1440" height="108" fill="#FAF1DD"/>
+  <rect x="0" y="980" width="1440" height="2" fill="#B8862B"/>
+  <rect x="0" y="1086" width="1440" height="2" fill="#B8862B"/>
+  <g transform="translate(120,1010) scale(0.75)">
+  <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 11v6M12 7.5h.01" fill="none" stroke="#8A6414" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="146" y="1024" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#8A6414" font-weight="700">Atalhos do protótipo - simular o acesso de cada perfil:</text>
+  <rect x="120" y="1038" width="183.96" height="40" rx="6" fill="#1263A5" stroke="#0D4E85" stroke-width="1.5"/>
+  <g transform="translate(133,1049) scale(0.75)">
+  <path d="M4 12h16M14 6l6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="159" y="1062.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Entrar como Aluno</text>
+  <rect x="315.96" y="1038" width="191.72" height="40" rx="6" fill="#0E2C4B" stroke="#0E2C4B" stroke-width="1.5"/>
+  <g transform="translate(328.96,1049) scale(0.75)">
+  <path d="M4 12h16M14 6l6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="354.96" y="1062.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Entrar como Gestor</text>
+  <rect x="519.69" y="1038" width="215.01" height="40" rx="6" fill="#B8862B" stroke="#966D20" stroke-width="1.5"/>
+  <g transform="translate(532.69,1049) scale(0.75)">
+  <path d="M4 12h16M14 6l6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="558.69" y="1062.72" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#FFFFFF" font-weight="700">Entrar como Professor</text>
+  <text x="1320" y="1064" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8A6414" text-anchor="end">Ligue cada botão ao frame correspondente no modo Prototype</text>
+  </g>
+  <g id="NOTA-ANALISE">
+  <rect x="0" y="1088" width="1440" height="348" fill="#101E2B"/>
+  <rect x="0" y="1088" width="1440" height="3" fill="#B8862B"/>
+  <text x="120" y="1124" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B8862B" font-weight="700" letter-spacing="1.6">NOTA DE ANÁLISE - NÃO FAZ PARTE DA INTERFACE</text>
+  <text x="120" y="1128" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#2A3B4A"></text>
+  <text x="120" y="1156" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Requisitos atendidos nesta tela</text>
+  <rect x="360" y="1143" width="49.6" height="22" rx="4" fill="#1D3448" stroke="#2F5171" stroke-width="1"/>
+  <text x="384.8" y="1158.2" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#CFE0EE" font-weight="700" text-anchor="middle">RF 5</text>
+  <text x="120" y="1188" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9B44C" font-weight="700">Decisões pendentes de reunião</text>
+  <circle cx="126" cy="1206" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1210" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 5 - Qual será o identificador principal de acesso: CPF (Opção 1, recomendada, garante unicidade) ou e-mail (Opção 2, padrão de mercado)? A tela está</text>
+  <text x="142" y="1229" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">desenhada com CPF.</text>
+  <circle cx="126" cy="1254" r="4.5" fill="#D9534F"/>
+  <text x="142" y="1258" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">RF 5 - Servidores da CMR usarão as credenciais da rede interna (LDAP/Active Directory - Single Sign-On) ou o portal terá banco de senhas isolado? O botão de SSO</text>
+  <text x="142" y="1277" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#C7D6E3">está previsto.</text>
+  <text x="120" y="1318" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8FA6BA" font-weight="700">Observação</text>
+  <text x="120" y="1338" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">Campos exigidos no RF 5: login, senha com ocultação de caracteres, checkbox 'Manter minha sessão' (7 dias) e link 'Esqueci minha senha'. O botão Entrar/Login também aparece</text>
+  <text x="120" y="1358" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#9FB6CB">no cabeçalho de todas as páginas públicas.</text>
+  </g>
+</svg>
